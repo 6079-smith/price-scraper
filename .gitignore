@@ -3,6 +3,8 @@ node_modules/
 
 # Environment variables
 .env
+.env.*
+!.env.example
 
 # Logs
 logs/
@@ -19,3 +21,47 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+
+# Database
+*.sql
+
+# Credentials
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.pfx
+*.p12
+
+# API keys
+*.key
+*.secret
+*.token
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+*.save
+
+# Database connection files
+*.db
+*.sqlite
+*.sqlite3
+*.sqlitedb
+
+# Sensitive configuration
+config.js
+config.*
+!config.example.js
+
+# Coverage reports
+coverage/
+
+# Local development
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

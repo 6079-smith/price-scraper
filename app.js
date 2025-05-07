@@ -3,7 +3,7 @@ const path = require('path');
 const { Pool } = require('pg');
 const config = require('./config');
 const { createLogger, format, transports } = require('winston');
-const rateLimit = require('express-rate-limit');
+const security = require('./middleware/security');
 
 const app = express();
 
@@ -26,9 +26,11 @@ const limiter = rateLimit({
     max: 100 // limit each IP to 100 requests per windowMs
 });
 
-app.use(limiter);
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
+
+// Apply security middleware
+security.applySecurity(app);
 
 // Database connection
 const pool = new Pool({
