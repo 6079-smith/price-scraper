@@ -112,11 +112,11 @@ async function scrapePrice(url) {
             
             // This is a placeholder - you'll need to customize based on your competitor's website
             // Example selectors for common e-commerce sites:
+            // Toquesnuff-specific selectors
             const priceSelectors = [
-                '.price', // Generic price class
-                '.product-price', // Common product price class
-                'span[itemprop="price"]', // Schema.org price
-                '.price-tag' // Common price tag class
+                '.product-price', // Toquesnuff price class
+                '.price', // Fallback
+                'span[itemprop="price"]' // Schema.org price
             ];
 
             for (const selector of priceSelectors) {
@@ -142,15 +142,15 @@ async function scrapePrice(url) {
 }
 
 // Function to update price history
-async function updatePriceHistory(productId, ourPrice, competitorPrice) {
+async function updatePriceHistory(productId, competitorPrice) {
     try {
         const client = await pool.connect();
         try {
             // Insert into price_history
             await client.query(`
-                INSERT INTO price_history (product_id, our_price, competitor_price)
-                VALUES ($1, $2, $3)
-            `, [productId, ourPrice, competitorPrice]);
+                INSERT INTO price_history (product_id, price, source)
+                VALUES ($1, $2, 'toquesnuff')
+            `, [productId, competitorPrice]);
 
             // Update last_scraped timestamp
             await client.query(`

@@ -7,7 +7,7 @@ require('dotenv').config({ path: path.join(__dirname, '.env') });
 // Default configuration
 const defaultConfig = {
     // Database
-    DATABASE_URL: 'postgresql://neondb_owner:npg_aEHrD8MNql4I@ep-tiny-band-a46tb2ia-pooler.us-east-1.aws.neon.tech:5432/neondb',
+    DATABASE_URL: 'postgresql://neondb_owner:npg_G1oIuRX4kgWd@ep-tiny-band-a46tb2ia-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require',
     DATABASE_SSL: true,
 
     // Scraping
