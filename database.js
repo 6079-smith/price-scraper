@@ -74,18 +74,33 @@ async function saveSnuffUrls(urls) {
 
             // First, create the table if it doesn't exist
             await client.query(`
-                CREATE TABLE IF NOT EXISTS nasal_snuff_urls (
-                    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-                    brand_name TEXT NOT NULL,
-                    url TEXT NOT NULL,
-                    created_at TIMESTAMPTZ DEFAULT NOW()
+                CREATE TABLE IF NOT EXISTS products (
+                    id SERIAL PRIMARY KEY,
+                    name VARCHAR(255) NOT NULL UNIQUE,
+                    url VARCHAR(1000) NOT NULL,
+                    price DECIMAL(10,2) NOT NULL,
+                    category VARCHAR(255) NOT NULL,
+                    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+                )
+            `);
+
+            // Create prices table if it doesn't exist
+            await client.query(`
+                CREATE TABLE IF NOT EXISTS prices (
+                    id SERIAL PRIMARY KEY,
+                    product_id INTEGER REFERENCES products(id),
+                    price DECIMAL(10,2) NOT NULL,
+                    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
                 )
             `);
             console.log('Table created or already exists');
 
             // Prepare the data for insertion
             const insertData = urls.map(url => [
-                url.text, // brand_name
+                url.text, // name
+                url.href,  // url
+                0.00, // price
+                '', // category
                 url.href  // url
             ]);
             console.log('Prepared insert data:', insertData);
