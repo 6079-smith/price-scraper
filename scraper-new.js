@@ -18,13 +18,33 @@ const logger = createLogger({
     ]
 });
 
-// Database connection
+// Database connection (Neon, robust)
+
 const pool = new Pool({
-    connectionString: config.DATABASE_URL,
-    ssl: {
-        rejectUnauthorized: false
-    }
+  user: 'neondb_owner',
+  password: 'npg_G1oIuRX4kgWd',
+  host: 'ep-tiny-band-a46tb2ia-pooler.us-east-1.aws.neon.tech',
+  database: 'neondb',
+  port: 5432,
+  ssl: {
+    rejectUnauthorized: false
+  }
 });
+
+// Minimal test connection
+async function testConnection() {
+  try {
+    const client = await pool.connect();
+    const res = await client.query('SELECT version()');
+    console.log('Connected! PostgreSQL version:', res.rows[0].version);
+    client.release();
+  } catch (err) {
+    console.error('Connection error:', err);
+    process.exit(1);
+  }
+}
+
+testConnection();
 
 // Helper function to save product data with retry logic
 async function saveProduct(product) {

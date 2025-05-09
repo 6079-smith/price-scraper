@@ -21,9 +21,9 @@ async function testConnection() {
 // Database connection configuration
 const pool = new Pool({
     connectionString: config.DATABASE_URL,
-    ssl: {
+    ssl: config.DATABASE_SSL ? {
         rejectUnauthorized: false
-    },
+    } : false,
     max: 20,
     idleTimeoutMillis: 30000,
     connectionTimeoutMillis: 2000
@@ -134,5 +134,7 @@ async function saveSnuffUrls(urls) {
 }
 
 module.exports = {
+    connect: connect,
+    pool: pool,
     saveSnuffUrls
 };

@@ -1,3 +1,5 @@
+require('dotenv').config();
+const path = require('path');
 const { Pool } = require('pg');
 const axios = require('axios');
 const cheerio = require('cheerio');
@@ -186,6 +188,7 @@ async function sendAlert(message) {
 
 // Main scraper function
 async function runScraper() {
+    let consecutiveFailures = 0;
     try {
         logger.info('Starting scraper run');
         
@@ -194,11 +197,13 @@ async function runScraper() {
 
         let consecutiveFailures = 0;
 
+        // Process each product
+
         for (const product of products) {
             try {
                 const competitorPrice = await scrapePrice(product.competitor_url);
                 if (competitorPrice !== null) {
-                    await updatePriceHistory(product.id, null, competitorPrice);
+                    await updatePriceHistory(product.id, competitorPrice);
                     logger.info(`Successfully updated price for SKU: ${product.our_sku}`);
                     consecutiveFailures = 0; // Reset failure counter on success
                 } else {
@@ -217,7 +222,6 @@ async function runScraper() {
         }
     } catch (error) {
         logger.error('Error in main scraper run:', error);
-        consecutiveFailures++;
         if (consecutiveFailures >= config.ALERT_THRESHOLD) {
             await sendAlert('Scraper failed to run completely');
         }

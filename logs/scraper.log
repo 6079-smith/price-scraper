@@ -1,0 +1,957 @@
+{"level":"info","message":"Starting scraper run","timestamp":"2025-05-08T07:59:28.860Z"}
+{"code":"XX000","length":75,"level":"error","message":"Error getting products from database password authentication failed for user 'neondb_owner'","name":"error","severity":"ERROR","stack":"error: password authentication failed for user 'neondb_owner'\n    at C:\\Windsurf\\price-scraper\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getProductsToScrape (C:\\Windsurf\\price-scraper\\scraper.js:78:24)\n    at async runScraper (C:\\Windsurf\\price-scraper\\scraper.js:193:26)","timestamp":"2025-05-08T07:59:29.428Z"}
+{"level":"info","message":"Starting scraper run","timestamp":"2025-05-08T08:00:34.460Z"}
+{"code":"XX000","length":75,"level":"error","message":"Error getting products from database password authentication failed for user 'neondb_owner'","name":"error","severity":"ERROR","stack":"error: password authentication failed for user 'neondb_owner'\n    at C:\\Windsurf\\price-scraper\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getProductsToScrape (C:\\Windsurf\\price-scraper\\scraper.js:78:24)\n    at async runScraper (C:\\Windsurf\\price-scraper\\scraper.js:193:26)","timestamp":"2025-05-08T08:00:35.056Z"}
+{"level":"info","message":"Starting scraper run","timestamp":"2025-05-08T08:07:45.551Z"}
+{"code":"XX000","length":75,"level":"error","message":"Error getting products from database password authentication failed for user 'neondb_owner'","name":"error","severity":"ERROR","stack":"error: password authentication failed for user 'neondb_owner'\n    at C:\\Windsurf\\price-scraper\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getProductsToScrape (C:\\Windsurf\\price-scraper\\scraper.js:78:24)\n    at async runScraper (C:\\Windsurf\\price-scraper\\scraper.js:194:26)","timestamp":"2025-05-08T08:07:46.083Z"}
+{"code":"XX000","length":75,"level":"error","message":"Error in main scraper run: password authentication failed for user 'neondb_owner'","name":"error","severity":"ERROR","stack":"error: password authentication failed for user 'neondb_owner'\n    at C:\\Windsurf\\price-scraper\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getProductsToScrape (C:\\Windsurf\\price-scraper\\scraper.js:78:24)\n    at async runScraper (C:\\Windsurf\\price-scraper\\scraper.js:194:26)","timestamp":"2025-05-08T08:07:46.084Z"}
+{"level":"info","message":"Scraper run completed","timestamp":"2025-05-08T08:07:46.084Z"}
+{"level":"info","message":"Starting scraper run","timestamp":"2025-05-08T08:12:04.229Z"}
+{"code":"XX000","length":75,"level":"error","message":"Error getting products from database password authentication failed for user 'neondb_owner'","name":"error","severity":"ERROR","stack":"error: password authentication failed for user 'neondb_owner'\n    at C:\\Windsurf\\price-scraper\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getProductsToScrape (C:\\Windsurf\\price-scraper\\scraper.js:79:24)\n    at async runScraper (C:\\Windsurf\\price-scraper\\scraper.js:195:26)","timestamp":"2025-05-08T08:12:04.748Z"}
+{"code":"XX000","length":75,"level":"error","message":"Error in main scraper run: password authentication failed for user 'neondb_owner'","name":"error","severity":"ERROR","stack":"error: password authentication failed for user 'neondb_owner'\n    at C:\\Windsurf\\price-scraper\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getProductsToScrape (C:\\Windsurf\\price-scraper\\scraper.js:79:24)\n    at async runScraper (C:\\Windsurf\\price-scraper\\scraper.js:195:26)","timestamp":"2025-05-08T08:12:04.748Z"}
+{"level":"info","message":"Scraper run completed","timestamp":"2025-05-08T08:12:04.749Z"}
+{"level":"error","message":"Error in scrapeNasalSnuff: The server does not support SSL connections","timestamp":"2025-05-08T22:57:55.953Z"}
+{"level":"error","message":"Error starting scraper: The server does not support SSL connections","stack":"Error: The server does not support SSL connections\n    at C:\\Windsurf\\price-scraper\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async scrapeNasalSnuff (C:\\Windsurf\\price-scraper\\scraper-new.js:122:18)\n    at async startScraper (C:\\Windsurf\\price-scraper\\scraper-new.js:392:9)","timestamp":"2025-05-08T22:57:55.956Z"}
+{"level":"error","message":"Error in scrapeNasalSnuff: The server does not support SSL connections","timestamp":"2025-05-08T22:58:58.742Z"}
+{"level":"error","message":"Error starting scraper: The server does not support SSL connections","stack":"Error: The server does not support SSL connections\n    at C:\\Windsurf\\price-scraper\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async scrapeNasalSnuff (C:\\Windsurf\\price-scraper\\scraper-new.js:122:18)\n    at async startScraper (C:\\Windsurf\\price-scraper\\scraper-new.js:392:9)","timestamp":"2025-05-08T22:58:58.745Z"}
+{"level":"error","message":"Error in scrapeNasalSnuff: The server does not support SSL connections","timestamp":"2025-05-08T23:05:00.956Z"}
+{"level":"error","message":"Error starting scraper: The server does not support SSL connections","stack":"Error: The server does not support SSL connections\n    at C:\\Windsurf\\price-scraper\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async scrapeNasalSnuff (C:\\Windsurf\\price-scraper\\scraper-new.js:136:18)\n    at async startScraper (C:\\Windsurf\\price-scraper\\scraper-new.js:406:9)","timestamp":"2025-05-08T23:05:00.959Z"}
+{"level":"error","message":"Error in scrapeNasalSnuff: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string","timestamp":"2025-05-08T23:07:37.725Z"}
+{"level":"error","message":"Error in scrapeNasalSnuff: password authentication failed for user 'neondb_owner'","timestamp":"2025-05-08T23:09:57.785Z"}
+{"code":"XX000","length":75,"level":"error","message":"Error starting scraper: password authentication failed for user 'neondb_owner'","name":"error","severity":"ERROR","stack":"error: password authentication failed for user 'neondb_owner'\n    at C:\\Windsurf\\price-scraper\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async scrapeNasalSnuff (C:\\Windsurf\\price-scraper\\scraper-new.js:140:18)\n    at async startScraper (C:\\Windsurf\\price-scraper\\scraper-new.js:410:9)","timestamp":"2025-05-08T23:09:57.788Z"}
+{"level":"error","message":"Error in scrapeNasalSnuff: password authentication failed for user 'neondb_owner'","timestamp":"2025-05-08T23:51:21.029Z"}
+{"code":"XX000","length":75,"level":"error","message":"Error starting scraper: password authentication failed for user 'neondb_owner'","name":"error","severity":"ERROR","stack":"error: password authentication failed for user 'neondb_owner'\n    at C:\\Windsurf\\price-scraper\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async scrapeNasalSnuff (C:\\Windsurf\\price-scraper\\scraper-new.js:144:18)\n    at async startScraper (C:\\Windsurf\\price-scraper\\scraper-new.js:414:9)","timestamp":"2025-05-08T23:51:21.032Z"}
+{"level":"error","message":"Error in scrapeNasalSnuff: password authentication failed for user 'neondb_owner'","timestamp":"2025-05-08T23:51:35.182Z"}
+{"code":"XX000","length":75,"level":"error","message":"Error starting scraper: password authentication failed for user 'neondb_owner'","name":"error","severity":"ERROR","stack":"error: password authentication failed for user 'neondb_owner'\n    at C:\\Windsurf\\price-scraper\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async scrapeNasalSnuff (C:\\Windsurf\\price-scraper\\scraper-new.js:144:18)\n    at async startScraper (C:\\Windsurf\\price-scraper\\scraper-new.js:414:9)","timestamp":"2025-05-08T23:51:35.184Z"}
+{"level":"error","message":"Error in scrapeNasalSnuff: password authentication failed for user 'neondb_owner'","timestamp":"2025-05-08T23:51:48.654Z"}
+{"code":"XX000","length":75,"level":"error","message":"Error starting scraper: password authentication failed for user 'neondb_owner'","name":"error","severity":"ERROR","stack":"error: password authentication failed for user 'neondb_owner'\n    at C:\\Windsurf\\price-scraper\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async scrapeNasalSnuff (C:\\Windsurf\\price-scraper\\scraper-new.js:149:18)\n    at async startScraper (C:\\Windsurf\\price-scraper\\scraper-new.js:419:9)","timestamp":"2025-05-08T23:51:48.658Z"}
+{"level":"error","message":"Error in scrapeNasalSnuff: password authentication failed for user 'neondb_owner'","timestamp":"2025-05-09T00:07:50.705Z"}
+{"level":"error","message":"Error in scrapeNasalSnuff: The server does not support SSL connections","timestamp":"2025-05-09T00:10:05.209Z"}
+{"level":"error","message":"Error in scrapeNasalSnuff: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string","timestamp":"2025-05-09T00:10:14.100Z"}
+{"level":"error","message":"Error starting scraper: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string","stack":"Error: SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string\n    at C:\\Windsurf\\price-scraper\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async scrapeNasalSnuff (C:\\Windsurf\\price-scraper\\scraper-new.js:136:18)\n    at async startScraper (C:\\Windsurf\\price-scraper\\scraper-new.js:406:9)","timestamp":"2025-05-09T00:10:14.103Z"}
+{"level":"info","message":"Starting nasal snuff scraping process","timestamp":"2025-05-09T00:24:47.382Z"}
+{"level":"info","message":"Fetching homepage","timestamp":"2025-05-09T00:24:47.386Z"}
+{"level":"info","message":"Successfully fetched homepage","timestamp":"2025-05-09T00:24:51.593Z"}
+{"level":"info","message":"Found 26 total submenu links","timestamp":"2025-05-09T00:24:51.652Z"}
+{"level":"info","message":"Found 24 valid category links","timestamp":"2025-05-09T00:24:51.653Z"}
+{"level":"info","message":"Found 24 nasal snuff categories","timestamp":"2025-05-09T00:24:51.653Z"}
+{"level":"info","message":"Scraping category: Toque USA","timestamp":"2025-05-09T00:24:51.654Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/toque-usa/","timestamp":"2025-05-09T00:24:51.654Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/toque-usa/","timestamp":"2025-05-09T00:24:51.654Z"}
+{"level":"info","message":"No subcategories found in category Toque USA, treating as product page","timestamp":"2025-05-09T00:24:54.720Z"}
+{"level":"info","message":"Found 1 pages in category Toque USA","timestamp":"2025-05-09T00:24:54.723Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category Toque USA","timestamp":"2025-05-09T00:24:54.723Z"}
+{"level":"info","message":"Found 9 products on page 1 of 1 in category Toque USA","timestamp":"2025-05-09T00:24:57.642Z"}
+{"level":"info","message":"Found 9 total products in category Toque USA","timestamp":"2025-05-09T00:24:57.642Z"}
+{"level":"info","message":"Saved product: Toque USA Black Cherry (ID: a548bdbc-afd0-4026-ace8-ed7d1548b038)","timestamp":"2025-05-09T00:24:58.448Z"}
+{"level":"info","message":"Saved price for product: Toque USA Black Cherry - From$2.78","timestamp":"2025-05-09T00:24:58.544Z"}
+{"level":"info","message":"Saved product: Toque USA Citrus (ID: 3e78cf02-da0e-4f0c-939c-f36b15ae6bb0)","timestamp":"2025-05-09T00:24:58.777Z"}
+{"level":"info","message":"Saved price for product: Toque USA Citrus - From$2.78","timestamp":"2025-05-09T00:24:58.859Z"}
+{"level":"info","message":"Saved product: Toque USA Chocolate (ID: 4d66c470-065d-4563-904f-0e79f9edce20)","timestamp":"2025-05-09T00:24:59.109Z"}
+{"level":"info","message":"Saved price for product: Toque USA Chocolate - From$2.78","timestamp":"2025-05-09T00:24:59.189Z"}
+{"level":"info","message":"Saved product: Toque USA Lime (ID: 28ab2fe1-35a2-4395-badd-95fd3ee538ca)","timestamp":"2025-05-09T00:24:59.450Z"}
+{"level":"info","message":"Saved price for product: Toque USA Lime - From$2.78","timestamp":"2025-05-09T00:24:59.564Z"}
+{"level":"info","message":"Saved product: Toque USA Kentucky Bourbon (ID: 02c57f7d-6de7-429f-945f-91cefe932c61)","timestamp":"2025-05-09T00:24:59.886Z"}
+{"level":"info","message":"Saved price for product: Toque USA Kentucky Bourbon - From$2.78","timestamp":"2025-05-09T00:24:59.977Z"}
+{"level":"info","message":"Saved product: Toque USA Spearmint (ID: 3acb5799-e2dd-416c-9dcf-f3cad9ce1c8d)","timestamp":"2025-05-09T00:25:00.239Z"}
+{"level":"info","message":"Saved price for product: Toque USA Spearmint - From$2.78","timestamp":"2025-05-09T00:25:00.347Z"}
+{"level":"info","message":"Saved product: Toque USA Peach (ID: 4fffffbd-2220-405c-81dd-e66ed3a02eb4)","timestamp":"2025-05-09T00:25:00.585Z"}
+{"level":"info","message":"Saved price for product: Toque USA Peach - From$2.78","timestamp":"2025-05-09T00:25:00.666Z"}
+{"level":"info","message":"Saved product: Toque USA Wild Berry (ID: 659de44c-0e59-4944-9e03-2e33529950a7)","timestamp":"2025-05-09T00:25:00.924Z"}
+{"level":"info","message":"Saved price for product: Toque USA Wild Berry - From$2.78","timestamp":"2025-05-09T00:25:01.005Z"}
+{"level":"info","message":"Saved product: Toque USA Whiskey & Honey (ID: 200fb0b0-44d2-4919-a297-2302cc336024)","timestamp":"2025-05-09T00:25:01.241Z"}
+{"level":"info","message":"Saved price for product: Toque USA Whiskey & Honey - From$2.78","timestamp":"2025-05-09T00:25:01.327Z"}
+{"level":"info","message":"Scraping category: OTTO","timestamp":"2025-05-09T00:25:01.328Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/tins-otto/otto-10g/","timestamp":"2025-05-09T00:25:01.328Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/tins-otto/otto-10g/","timestamp":"2025-05-09T00:25:01.328Z"}
+{"level":"info","message":"No subcategories found in category OTTO, treating as product page","timestamp":"2025-05-09T00:25:04.602Z"}
+{"level":"info","message":"Found 1 pages in category OTTO","timestamp":"2025-05-09T00:25:04.604Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category OTTO","timestamp":"2025-05-09T00:25:04.605Z"}
+{"level":"info","message":"Found 13 products on page 1 of 1 in category OTTO","timestamp":"2025-05-09T00:25:07.855Z"}
+{"level":"info","message":"Found 13 total products in category OTTO","timestamp":"2025-05-09T00:25:07.855Z"}
+{"level":"info","message":"Saved product: OTTO Chancellor (ID: d0c7b67c-542d-4687-9add-7dc9d4e13dc0)","timestamp":"2025-05-09T00:25:08.100Z"}
+{"level":"info","message":"Saved price for product: OTTO Chancellor - From$3.52","timestamp":"2025-05-09T00:25:08.184Z"}
+{"level":"info","message":"Saved product: OTTO Classic AM (ID: 79d55a5f-e26c-4e03-8a36-e08ab59125ea)","timestamp":"2025-05-09T00:25:08.433Z"}
+{"level":"info","message":"Saved price for product: OTTO Classic AM - From$3.52","timestamp":"2025-05-09T00:25:08.512Z"}
+{"level":"info","message":"Saved product: OTTO Classic CM (ID: c5459e67-5bc4-40fd-9527-732862cac189)","timestamp":"2025-05-09T00:25:08.755Z"}
+{"level":"info","message":"Saved price for product: OTTO Classic CM - From$3.52","timestamp":"2025-05-09T00:25:08.835Z"}
+{"level":"info","message":"Saved product: OTTO Classic RM (ID: fc5283b7-0e22-4311-8157-17fce2b7e0ce)","timestamp":"2025-05-09T00:25:09.115Z"}
+{"level":"info","message":"Saved price for product: OTTO Classic RM - From$3.52","timestamp":"2025-05-09T00:25:09.196Z"}
+{"level":"info","message":"Saved product: OTTO Glacier (ID: b4c1c6e5-11e4-473f-a051-bf99c59a2a32)","timestamp":"2025-05-09T00:25:09.431Z"}
+{"level":"info","message":"Saved price for product: OTTO Glacier - From$3.52","timestamp":"2025-05-09T00:25:09.511Z"}
+{"level":"info","message":"Saved product: OTTO Red Rag (ID: 5973534e-302a-4f1c-ac7b-d4f3655567d7)","timestamp":"2025-05-09T00:25:09.746Z"}
+{"level":"info","message":"Saved price for product: OTTO Red Rag - From$3.52","timestamp":"2025-05-09T00:25:09.827Z"}
+{"level":"info","message":"Saved product: OTTO Schmalzler (ID: 84511d7f-9540-4bb2-86c4-082022554ab0)","timestamp":"2025-05-09T00:25:10.068Z"}
+{"level":"info","message":"Saved price for product: OTTO Schmalzler - From$3.52","timestamp":"2025-05-09T00:25:10.145Z"}
+{"level":"info","message":"Saved product: Otto White 10g (ID: 44b1559f-cfd5-4f16-97e6-ef7cd33f3dc8)","timestamp":"2025-05-09T00:25:10.384Z"}
+{"level":"info","message":"Saved price for product: Otto White 10g - $3.52","timestamp":"2025-05-09T00:25:10.461Z"}
+{"level":"info","message":"Saved product: OTTO Classic OM (ID: 28a8ff52-5871-41e5-8699-d3117852ae57)","timestamp":"2025-05-09T00:25:10.699Z"}
+{"level":"info","message":"Saved price for product: OTTO Classic OM - From$3.52","timestamp":"2025-05-09T00:25:10.781Z"}
+{"level":"info","message":"Saved product: OTTO Forest 10g (ID: f92d2b08-6d7e-49a6-b0d2-4aed66bcba3e)","timestamp":"2025-05-09T00:25:11.016Z"}
+{"level":"info","message":"Saved price for product: OTTO Forest 10g - From$3.52","timestamp":"2025-05-09T00:25:11.096Z"}
+{"level":"info","message":"Saved product: OTTO Caribbean 10g (ID: 6598ae44-cf46-45ef-89f4-6137bf7150e5)","timestamp":"2025-05-09T00:25:11.333Z"}
+{"level":"info","message":"Saved price for product: OTTO Caribbean 10g - From$3.52","timestamp":"2025-05-09T00:25:11.415Z"}
+{"level":"info","message":"Saved product: Otto American 10g (ID: 1c62c8ea-2354-4b43-9c40-453caba0acf7)","timestamp":"2025-05-09T00:25:11.663Z"}
+{"level":"info","message":"Saved price for product: Otto American 10g - From$3.52","timestamp":"2025-05-09T00:25:11.780Z"}
+{"level":"info","message":"Saved product: OTTO Snuff Sample Pack 10 for the price of 9 (ID: b02ca25e-cdf6-4f01-a440-68db76ac7052)","timestamp":"2025-05-09T00:25:12.017Z"}
+{"level":"info","message":"Saved price for product: OTTO Snuff Sample Pack 10 for the price of 9 - $31.72","timestamp":"2025-05-09T00:25:12.105Z"}
+{"level":"info","message":"Scraping category: Artisan","timestamp":"2025-05-09T00:25:12.106Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/artisan-economy-pouches/artisan-varied-products/","timestamp":"2025-05-09T00:25:12.106Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/artisan-economy-pouches/artisan-varied-products/","timestamp":"2025-05-09T00:25:12.106Z"}
+{"level":"info","message":"No subcategories found in category Artisan, treating as product page","timestamp":"2025-05-09T00:25:15.379Z"}
+{"level":"info","message":"Found 1 pages in category Artisan","timestamp":"2025-05-09T00:25:15.380Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category Artisan","timestamp":"2025-05-09T00:25:15.381Z"}
+{"level":"info","message":"Found 13 products on page 1 of 1 in category Artisan","timestamp":"2025-05-09T00:25:18.368Z"}
+{"level":"info","message":"Found 13 total products in category Artisan","timestamp":"2025-05-09T00:25:18.368Z"}
+{"level":"info","message":"Saved product: Artisan Snuff Brill (ID: cf4e0702-523a-415f-9ac4-5b6705b82ee4)","timestamp":"2025-05-09T00:25:18.605Z"}
+{"level":"info","message":"Saved price for product: Artisan Snuff Brill - From$3.98","timestamp":"2025-05-09T00:25:18.684Z"}
+{"level":"info","message":"Saved product: Artisan Snuff SP Blue (ID: 877c4c48-3149-4cdc-9c0c-cf1b5c315963)","timestamp":"2025-05-09T00:25:18.921Z"}
+{"level":"info","message":"Saved price for product: Artisan Snuff SP Blue - From$3.98","timestamp":"2025-05-09T00:25:19.003Z"}
+{"level":"info","message":"Saved product: Artisan Snuff JP (ID: 2dac2c9e-0cc2-45a9-8f32-1672afcdbae8)","timestamp":"2025-05-09T00:25:19.239Z"}
+{"level":"info","message":"Saved price for product: Artisan Snuff JP - From$4.38","timestamp":"2025-05-09T00:25:19.319Z"}
+{"level":"info","message":"Saved product: Artisan Snuff Firemans (ID: a70c97f6-edcc-4238-89e9-4e58bb22e3fd)","timestamp":"2025-05-09T00:25:19.559Z"}
+{"level":"info","message":"Saved price for product: Artisan Snuff Firemans - From$4.38","timestamp":"2025-05-09T00:25:19.643Z"}
+{"level":"info","message":"Saved product: Artisan Snuff Barleywine (ID: 356caf3f-768e-4731-810e-eff5dc9f9394)","timestamp":"2025-05-09T00:25:19.885Z"}
+{"level":"info","message":"Saved price for product: Artisan Snuff Barleywine - From$4.38","timestamp":"2025-05-09T00:25:19.969Z"}
+{"level":"info","message":"Saved product: Artisan Snuff Resolute (ID: 8eda92c3-c571-4d7c-a8d5-9948fb63ac29)","timestamp":"2025-05-09T00:25:20.205Z"}
+{"level":"info","message":"Saved price for product: Artisan Snuff Resolute - From$4.38","timestamp":"2025-05-09T00:25:20.302Z"}
+{"level":"info","message":"Saved product: Artisan Snuff Oriental Extra 10g (ID: 435c47ec-8ccd-4aa2-ab6d-231e0401bf84)","timestamp":"2025-05-09T00:25:20.541Z"}
+{"level":"info","message":"Saved price for product: Artisan Snuff Oriental Extra 10g - $4.38","timestamp":"2025-05-09T00:25:20.622Z"}
+{"level":"info","message":"Saved product: Artisan snuff Oriental 10g (ID: e284437a-c668-4f6f-ba04-37b5ad42c594)","timestamp":"2025-05-09T00:25:20.864Z"}
+{"level":"info","message":"Saved price for product: Artisan snuff Oriental 10g - $4.38","timestamp":"2025-05-09T00:25:20.944Z"}
+{"level":"info","message":"Saved product: Artisan Snuff Robusta Rappee (ID: 03bec8e6-49b5-46c8-bdb7-36ed4c1ac56d)","timestamp":"2025-05-09T00:25:21.182Z"}
+{"level":"info","message":"Saved price for product: Artisan Snuff Robusta Rappee - From$5.31","timestamp":"2025-05-09T00:25:21.263Z"}
+{"level":"info","message":"Saved product: Artisan Snuff Juniper Rappee (ID: cdd3dee1-10f8-42b5-92bc-3cd8f4bb1a69)","timestamp":"2025-05-09T00:25:21.534Z"}
+{"level":"info","message":"Saved price for product: Artisan Snuff Juniper Rappee - From$5.31","timestamp":"2025-05-09T00:25:21.616Z"}
+{"level":"info","message":"Saved product: Artisan Snuff Dark Rappee (ID: aa2d437c-1d36-4762-b5c7-07c196e4601a)","timestamp":"2025-05-09T00:25:21.859Z"}
+{"level":"info","message":"Saved price for product: Artisan Snuff Dark Rappee - From$5.31","timestamp":"2025-05-09T00:25:21.939Z"}
+{"level":"info","message":"Saved product: Artisan Snuff Ficus Rappee (ID: 0a461338-73c8-45fd-ad23-81f8d8c463bb)","timestamp":"2025-05-09T00:25:22.191Z"}
+{"level":"info","message":"Saved price for product: Artisan Snuff Ficus Rappee - From$5.31","timestamp":"2025-05-09T00:25:22.288Z"}
+{"level":"info","message":"Saved product: Artisan Snuff Sample Pack (ID: 20b54167-1cbb-476c-a8a7-8d245bc193bf)","timestamp":"2025-05-09T00:25:22.540Z"}
+{"level":"info","message":"Saved price for product: Artisan Snuff Sample Pack - $42.55","timestamp":"2025-05-09T00:25:22.624Z"}
+{"level":"info","message":"Scraping category: Silver Dollar","timestamp":"2025-05-09T00:25:22.624Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/silver-dollar/","timestamp":"2025-05-09T00:25:22.625Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/silver-dollar/","timestamp":"2025-05-09T00:25:22.625Z"}
+{"level":"info","message":"Found 2 subcategories in category Silver Dollar","timestamp":"2025-05-09T00:25:25.323Z"}
+{"level":"info","message":"Scraping subcategory: Tins (17)","timestamp":"2025-05-09T00:25:25.323Z"}
+{"level":"info","message":"Fetching subcategory page: https://www.toquesnuff.com/product-category/silver-dollar/silverdollartins/","timestamp":"2025-05-09T00:25:25.324Z"}
+{"level":"info","message":"Found 1 pages in subcategory Tins (17)","timestamp":"2025-05-09T00:25:28.397Z"}
+{"level":"info","message":"Scraping page 1 of 1 in subcategory Tins (17)","timestamp":"2025-05-09T00:25:28.398Z"}
+{"level":"info","message":"Found 17 products on page 1 of 1 in subcategory Tins (17)","timestamp":"2025-05-09T00:25:31.447Z"}
+{"level":"info","message":"Found 17 total products in subcategory Tins (17)","timestamp":"2025-05-09T00:25:31.448Z"}
+{"level":"info","message":"Saved product: Silver Dollar Apricot (ID: 2f85aae0-3315-45ac-9675-6e0aadc99d04)","timestamp":"2025-05-09T00:25:31.687Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Apricot - From$1.32","timestamp":"2025-05-09T00:25:31.767Z"}
+{"level":"info","message":"Saved product: Silver Dollar Blueberry (ID: 5ce024a8-e2e6-4f09-b1df-3d0cf83757e2)","timestamp":"2025-05-09T00:25:32.011Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Blueberry - From$1.32","timestamp":"2025-05-09T00:25:32.090Z"}
+{"level":"info","message":"Saved product: Silver Dollar Cherry (ID: c2136ff7-2931-484b-9fa1-ba2df7d23fa4)","timestamp":"2025-05-09T00:25:32.329Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Cherry - From$1.32","timestamp":"2025-05-09T00:25:32.409Z"}
+{"level":"info","message":"Saved product: Silver Dollar Cinnamon (ID: 612d145f-702b-48d3-8cc8-08ab39685cb3)","timestamp":"2025-05-09T00:25:32.646Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Cinnamon - From$1.32","timestamp":"2025-05-09T00:25:32.725Z"}
+{"level":"info","message":"Saved product: Silver Dollar Licorice (ID: 71992d5a-d4eb-4f48-96ca-e55394856564)","timestamp":"2025-05-09T00:25:32.970Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Licorice - From$1.32","timestamp":"2025-05-09T00:25:33.051Z"}
+{"level":"info","message":"Saved product: Silver Dollar Natural (ID: cd0ea37a-28d5-4c09-86ca-53d9fc667dac)","timestamp":"2025-05-09T00:25:33.286Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Natural - From$1.32","timestamp":"2025-05-09T00:25:33.364Z"}
+{"level":"info","message":"Saved product: Silver Dollar Original (ID: f11a7e45-7ffa-43fe-b6f4-be17b785b428)","timestamp":"2025-05-09T00:25:33.603Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Original - From$1.32","timestamp":"2025-05-09T00:25:33.695Z"}
+{"level":"info","message":"Saved product: Silver Dollar Raspberry (ID: ae117856-006a-451c-9bf5-8182a7c3070e)","timestamp":"2025-05-09T00:25:33.934Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Raspberry - From$1.32","timestamp":"2025-05-09T00:25:34.014Z"}
+{"level":"info","message":"Saved product: Silver Dollar Spearmint (ID: 7868638b-8a47-44cc-a0ac-c14dbda891aa)","timestamp":"2025-05-09T00:25:34.259Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Spearmint - From$1.32","timestamp":"2025-05-09T00:25:34.339Z"}
+{"level":"info","message":"Saved product: Silver Dollar Vanilla (ID: 5cb9204c-2561-4e94-a7d6-a1941f4e51d9)","timestamp":"2025-05-09T00:25:34.574Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Vanilla - From$1.32","timestamp":"2025-05-09T00:25:34.656Z"}
+{"level":"info","message":"Saved product: Silver Dollar Coffee (ID: efd5f8e2-f92c-492d-80f2-dec06f2afce9)","timestamp":"2025-05-09T00:25:34.899Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Coffee - From$1.32","timestamp":"2025-05-09T00:25:34.979Z"}
+{"level":"info","message":"Saved product: Silver Dollar Medicated (ID: 3ded8403-540a-4e81-a09c-29ef0232d8bb)","timestamp":"2025-05-09T00:25:35.223Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Medicated - From$1.32","timestamp":"2025-05-09T00:25:35.306Z"}
+{"level":"info","message":"Saved product: Silver Dollar Scotch (ID: 86f6ae3a-b98e-4aac-8dd1-c47bbc4b493a)","timestamp":"2025-05-09T00:25:35.564Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Scotch - From$1.32","timestamp":"2025-05-09T00:25:35.646Z"}
+{"level":"info","message":"Saved product: Silver Dollar Cola (ID: 89597329-97fe-493a-86e0-d94feb60fca6)","timestamp":"2025-05-09T00:25:35.891Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Cola - From$2.65","timestamp":"2025-05-09T00:25:35.979Z"}
+{"level":"info","message":"Saved product: Silver Dollar 10 for 9 – 5GTins Sample Selection (ID: c1b196de-61ac-450b-909d-7b9dc35d84c6)","timestamp":"2025-05-09T00:25:36.219Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar 10 for 9 – 5GTins Sample Selection - $11.79","timestamp":"2025-05-09T00:25:36.302Z"}
+{"level":"info","message":"Saved product: Silver Dollar 10 for 9 – 10g (ID: f5b5cdce-f723-48b1-8c8f-c8a0ba479ac7)","timestamp":"2025-05-09T00:25:36.568Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar 10 for 9 – 10g - $23.82","timestamp":"2025-05-09T00:25:36.652Z"}
+{"level":"info","message":"Saved product: Silver Dollar 6 for 5 – 25g (ID: 82456c5e-b309-41f6-9361-9f018a89beed)","timestamp":"2025-05-09T00:25:36.907Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar 6 for 5 – 25g - $26.54","timestamp":"2025-05-09T00:25:36.989Z"}
+{"level":"info","message":"Scraping subcategory: Economy Pouches (15)","timestamp":"2025-05-09T00:25:36.989Z"}
+{"level":"info","message":"Fetching subcategory page: https://www.toquesnuff.com/product-category/silver-dollar/silverdollareconomypouches/","timestamp":"2025-05-09T00:25:36.989Z"}
+{"level":"info","message":"Found 1 pages in subcategory Economy Pouches (15)","timestamp":"2025-05-09T00:25:40.504Z"}
+{"level":"info","message":"Scraping page 1 of 1 in subcategory Economy Pouches (15)","timestamp":"2025-05-09T00:25:40.504Z"}
+{"level":"info","message":"Found 15 products on page 1 of 1 in subcategory Economy Pouches (15)","timestamp":"2025-05-09T00:25:43.507Z"}
+{"level":"info","message":"Found 15 total products in subcategory Economy Pouches (15)","timestamp":"2025-05-09T00:25:43.508Z"}
+{"level":"info","message":"Saved product: Silver Dollar Apricot Economy Pouches (ID: fd04175a-4d84-48eb-81a9-4a2f455e18fd)","timestamp":"2025-05-09T00:25:43.771Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Apricot Economy Pouches - From$10.31","timestamp":"2025-05-09T00:25:43.852Z"}
+{"level":"info","message":"Saved product: Silver Dollar Blueberry Economy Pouches (ID: 342b6f64-819f-493d-bdbd-94129e658f6e)","timestamp":"2025-05-09T00:25:44.145Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Blueberry Economy Pouches - From$10.31","timestamp":"2025-05-09T00:25:44.227Z"}
+{"level":"info","message":"Saved product: Silver Dollar Cherry Economy Pouches (ID: e38e77e1-97a3-4dcc-b455-7768cc477474)","timestamp":"2025-05-09T00:25:44.491Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Cherry Economy Pouches - From$10.31","timestamp":"2025-05-09T00:25:44.589Z"}
+{"level":"info","message":"Saved product: Silver Dollar Cinnamon Economy Pouches (ID: 704c36ec-6f91-40ec-ad2b-bf568988d311)","timestamp":"2025-05-09T00:25:44.841Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Cinnamon Economy Pouches - From$10.31","timestamp":"2025-05-09T00:25:44.937Z"}
+{"level":"info","message":"Saved product: Silver Dollar Cola Economy Pouches (ID: 621cf0d5-6dc3-41d3-9fc9-f6f96bbb0029)","timestamp":"2025-05-09T00:25:45.182Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Cola Economy Pouches - From$10.31","timestamp":"2025-05-09T00:25:45.263Z"}
+{"level":"info","message":"Saved product: Silver Dollar Licorice Economy Pouches (ID: 4e64b3cd-7e95-42d3-ba81-96e0959ec056)","timestamp":"2025-05-09T00:25:45.498Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Licorice Economy Pouches - From$10.31","timestamp":"2025-05-09T00:25:45.578Z"}
+{"level":"info","message":"Saved product: Silver Dollar Natural Economy Pouches (ID: ad39735d-f9ed-4a92-a40f-1a51f3a7eb19)","timestamp":"2025-05-09T00:25:45.818Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Natural Economy Pouches - From$10.31","timestamp":"2025-05-09T00:25:45.901Z"}
+{"level":"info","message":"Saved product: Silver Dollar Original Economy Pouches (ID: d660400c-fc6f-4e3c-b14c-d0569a6dd0ae)","timestamp":"2025-05-09T00:25:46.141Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Original Economy Pouches - From$10.31","timestamp":"2025-05-09T00:25:46.220Z"}
+{"level":"info","message":"Saved product: Silver Dollar Raspberry Economy Pouches (ID: 5b1d1f36-a949-412b-82ae-10a530a5f7cf)","timestamp":"2025-05-09T00:25:46.470Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Raspberry Economy Pouches - From$10.31","timestamp":"2025-05-09T00:25:46.550Z"}
+{"level":"info","message":"Saved product: Silver Dollar Vanilla Economy Pouches (ID: 8fa0d31e-51f0-4022-b634-07cd7834e7ef)","timestamp":"2025-05-09T00:25:46.793Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Vanilla Economy Pouches - From$10.31","timestamp":"2025-05-09T00:25:46.881Z"}
+{"level":"info","message":"Saved product: Silver Dollar Medicated Economy Pouches (ID: 1db47e3d-37ca-4ce2-9906-4822920b9e34)","timestamp":"2025-05-09T00:25:47.115Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Medicated Economy Pouches - From$10.31","timestamp":"2025-05-09T00:25:47.195Z"}
+{"level":"info","message":"Saved product: Silver Dollar Coffee Economy Pouches (ID: da9856a4-4157-479b-88f5-e16da75ed62a)","timestamp":"2025-05-09T00:25:47.434Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Coffee Economy Pouches - From$10.31","timestamp":"2025-05-09T00:25:47.514Z"}
+{"level":"info","message":"Saved product: Silver Dollar Scotch Economy Pouches (ID: d6d273e5-0524-4b9d-b202-7a8045592fbf)","timestamp":"2025-05-09T00:25:47.757Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Scotch Economy Pouches - From$10.31","timestamp":"2025-05-09T00:25:47.836Z"}
+{"level":"info","message":"Saved product: Silver Dollar Spearmint Economy Pouches (ID: 7752c04b-ab9d-49aa-9163-0d64a436b027)","timestamp":"2025-05-09T00:25:48.070Z"}
+{"level":"info","message":"Saved price for product: Silver Dollar Spearmint Economy Pouches - From$10.31","timestamp":"2025-05-09T00:25:48.153Z"}
+{"level":"info","message":"Saved product: Toque USA Kentucky Bourbon 400G Economy Pouch (ID: 582b3e06-60d5-4951-bccf-4406a2039ea2)","timestamp":"2025-05-09T00:25:48.392Z"}
+{"level":"info","message":"Saved price for product: Toque USA Kentucky Bourbon 400G Economy Pouch - $40.05","timestamp":"2025-05-09T00:25:48.472Z"}
+{"level":"info","message":"Scraping category: A&S","timestamp":"2025-05-09T00:25:48.472Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/as/","timestamp":"2025-05-09T00:25:48.472Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/as/","timestamp":"2025-05-09T00:25:48.472Z"}
+{"level":"info","message":"No subcategories found in category A&S, treating as product page","timestamp":"2025-05-09T00:25:51.162Z"}
+{"level":"info","message":"Found 1 pages in category A&S","timestamp":"2025-05-09T00:25:51.164Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category A&S","timestamp":"2025-05-09T00:25:51.164Z"}
+{"level":"info","message":"Found 2 products on page 1 of 1 in category A&S","timestamp":"2025-05-09T00:25:53.624Z"}
+{"level":"info","message":"Found 2 total products in category A&S","timestamp":"2025-05-09T00:25:53.625Z"}
+{"level":"info","message":"Saved product: A&S Menthol (ID: 52674a13-7fe2-4828-8515-0e621144b8c4)","timestamp":"2025-05-09T00:25:53.867Z"}
+{"level":"info","message":"Saved price for product: A&S Menthol - $11.24","timestamp":"2025-05-09T00:25:53.949Z"}
+{"level":"info","message":"Saved product: A&S Menthol Free 10g (ID: c769eccb-c7b3-413b-8cb4-4dd403c1cd65)","timestamp":"2025-05-09T00:25:54.187Z"}
+{"level":"info","message":"Saved price for product: A&S Menthol Free 10g - $11.24","timestamp":"2025-05-09T00:25:54.270Z"}
+{"level":"info","message":"Scraping category: Abtei St","timestamp":"2025-05-09T00:25:54.270Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/abtei-st/","timestamp":"2025-05-09T00:25:54.271Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/abtei-st/","timestamp":"2025-05-09T00:25:54.271Z"}
+{"level":"info","message":"No subcategories found in category Abtei St, treating as product page","timestamp":"2025-05-09T00:25:56.754Z"}
+{"level":"info","message":"Found 1 pages in category Abtei St","timestamp":"2025-05-09T00:25:56.755Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category Abtei St","timestamp":"2025-05-09T00:25:56.756Z"}
+{"level":"info","message":"Found 0 products on page 1 of 1 in category Abtei St","timestamp":"2025-05-09T00:25:59.225Z"}
+{"level":"info","message":"Found 0 total products in category Abtei St","timestamp":"2025-05-09T00:25:59.226Z"}
+{"level":"info","message":"Scraping category: Bernard","timestamp":"2025-05-09T00:25:59.226Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/bernards/","timestamp":"2025-05-09T00:25:59.226Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/bernards/","timestamp":"2025-05-09T00:25:59.226Z"}
+{"level":"info","message":"No subcategories found in category Bernard, treating as product page","timestamp":"2025-05-09T00:26:01.878Z"}
+{"level":"info","message":"Found 2 pages in category Bernard","timestamp":"2025-05-09T00:26:01.880Z"}
+{"level":"info","message":"Scraping page 1 of 2 in category Bernard","timestamp":"2025-05-09T00:26:01.881Z"}
+{"level":"info","message":"Found 20 products on page 1 of 2 in category Bernard","timestamp":"2025-05-09T00:26:04.564Z"}
+{"level":"info","message":"Scraping page 2 of 2 in category Bernard","timestamp":"2025-05-09T00:26:04.564Z"}
+{"level":"info","message":"Found 4 products on page 2 of 2 in category Bernard","timestamp":"2025-05-09T00:26:07.042Z"}
+{"level":"info","message":"Found 24 total products in category Bernard","timestamp":"2025-05-09T00:26:07.042Z"}
+{"level":"info","message":"Saved product: Bernard Schmalzler Weiss Blau 10g Doser (ID: 80b961fe-8fad-4065-8ad5-53d171e95954)","timestamp":"2025-05-09T00:26:07.802Z"}
+{"level":"info","message":"Saved price for product: Bernard Schmalzler Weiss Blau 10g Doser - $2.90","timestamp":"2025-05-09T00:26:07.883Z"}
+{"level":"info","message":"Saved product: Bernard Jubilaums 10g Doser (ID: 71632740-d381-4f86-902f-5dc6b268624e)","timestamp":"2025-05-09T00:26:08.129Z"}
+{"level":"info","message":"Saved price for product: Bernard Jubilaums 10g Doser - $2.90","timestamp":"2025-05-09T00:26:08.210Z"}
+{"level":"info","message":"Saved product: Bernard Magic Moments 10g Doser (ID: 95e4c9ca-31d3-4d75-b0b4-54ea7a919048)","timestamp":"2025-05-09T00:26:08.453Z"}
+{"level":"info","message":"Saved price for product: Bernard Magic Moments 10g Doser - $2.90","timestamp":"2025-05-09T00:26:08.534Z"}
+{"level":"info","message":"Saved product: Bernard Winterpris 10g Doser (ID: a0e73e0e-c5fa-4611-9432-35a163026db3)","timestamp":"2025-05-09T00:26:08.770Z"}
+{"level":"info","message":"Saved price for product: Bernard Winterpris 10g Doser - $2.90","timestamp":"2025-05-09T00:26:08.888Z"}
+{"level":"info","message":"Saved product: Bernard Klostermischung 10g Doser (ID: 75400731-9622-4458-aa26-b0663c3c91ea)","timestamp":"2025-05-09T00:26:09.129Z"}
+{"level":"info","message":"Saved price for product: Bernard Klostermischung 10g Doser - $2.96","timestamp":"2025-05-09T00:26:09.211Z"}
+{"level":"info","message":"Saved product: Bernard Original 10g Doser (ID: d025b2d2-d3f4-4bb2-9ce8-7a132ab68a2d)","timestamp":"2025-05-09T00:26:09.466Z"}
+{"level":"info","message":"Saved price for product: Bernard Original 10g Doser - $2.97","timestamp":"2025-05-09T00:26:09.546Z"}
+{"level":"info","message":"Saved product: Bernard Amostrinha 10g Doser (ID: aa347313-2e1e-4dd5-8937-121004ff7b21)","timestamp":"2025-05-09T00:26:09.786Z"}
+{"level":"info","message":"Saved price for product: Bernard Amostrinha 10g Doser - $3.06","timestamp":"2025-05-09T00:26:09.867Z"}
+{"level":"info","message":"Saved product: Bernard Polar Prise 10g Doser (ID: c050c969-8f1e-4aee-b5f9-fe719ad6062d)","timestamp":"2025-05-09T00:26:10.106Z"}
+{"level":"info","message":"Saved price for product: Bernard Polar Prise 10g Doser - $3.06","timestamp":"2025-05-09T00:26:10.187Z"}
+{"level":"info","message":"Saved product: Bernard Schmalzler Zwiefacher 10g Doser (ID: 022c638b-5482-4f7e-b098-6ee20daa550a)","timestamp":"2025-05-09T00:26:10.428Z"}
+{"level":"info","message":"Saved price for product: Bernard Schmalzler Zwiefacher 10g Doser - $3.06","timestamp":"2025-05-09T00:26:10.509Z"}
+{"level":"info","message":"Saved product: Bernard Steife Prise 10g Doser (ID: 6ca53723-f6e5-461e-be55-bb92e5ddd679)","timestamp":"2025-05-09T00:26:10.746Z"}
+{"level":"info","message":"Saved price for product: Bernard Steife Prise 10g Doser - $3.06","timestamp":"2025-05-09T00:26:10.827Z"}
+{"level":"info","message":"Saved product: Bernard Charvari 10g Doser (ID: ca8fc626-4204-44d9-9787-f524d321a6e8)","timestamp":"2025-05-09T00:26:11.067Z"}
+{"level":"info","message":"Saved price for product: Bernard Charvari 10g Doser - $3.06","timestamp":"2025-05-09T00:26:11.152Z"}
+{"level":"info","message":"Saved product: Bernard Naseweis 10g Doser (ID: a9c261de-7c0a-4809-a66b-8c0dd0956e7d)","timestamp":"2025-05-09T00:26:11.409Z"}
+{"level":"info","message":"Saved price for product: Bernard Naseweis 10g Doser - $3.06","timestamp":"2025-05-09T00:26:11.492Z"}
+{"level":"info","message":"Saved product: Bernard Naseweis (E) 10g Doser (ID: bd1a788a-f400-4900-8229-ea505baab215)","timestamp":"2025-05-09T00:26:11.730Z"}
+{"level":"info","message":"Saved price for product: Bernard Naseweis (E) 10g Doser - $3.06","timestamp":"2025-05-09T00:26:11.810Z"}
+{"level":"info","message":"Saved product: Bernard Schmalzlerfranzl Fresco 10g Doser (ID: 50baac3e-d3e8-4711-a4d9-1db3ef212111)","timestamp":"2025-05-09T00:26:12.049Z"}
+{"level":"info","message":"Saved price for product: Bernard Schmalzlerfranzl Fresco 10g Doser - $3.06","timestamp":"2025-05-09T00:26:12.133Z"}
+{"level":"info","message":"Saved product: Bernard Aecht Altbayrischer Schmalzler 10g Doser (ID: bfa94b2a-e533-49d4-88ca-9433b0aaeaa6)","timestamp":"2025-05-09T00:26:12.381Z"}
+{"level":"info","message":"Saved price for product: Bernard Aecht Altbayrischer Schmalzler 10g Doser - $3.06","timestamp":"2025-05-09T00:26:12.461Z"}
+{"level":"info","message":"Saved product: Bernard Schmalzlerfranzl Gold 10g Doser (ID: 82746cb6-e8ef-4248-88ba-041254befdf3)","timestamp":"2025-05-09T00:26:12.712Z"}
+{"level":"info","message":"Saved price for product: Bernard Schmalzlerfranzl Gold 10g Doser - $3.06","timestamp":"2025-05-09T00:26:12.814Z"}
+{"level":"info","message":"Saved product: Bernard Original Schmalzlerfranzl 10g Doser (ID: fb1cdb0f-3e0c-423a-afa6-e23bda2a16bc)","timestamp":"2025-05-09T00:26:13.062Z"}
+{"level":"info","message":"Saved price for product: Bernard Original Schmalzlerfranzl 10g Doser - $3.06","timestamp":"2025-05-09T00:26:13.142Z"}
+{"level":"info","message":"Saved product: Bernard Regensburger Pris 10g Doser (ID: 301cc2fd-7dcd-42f0-82d6-486de9228bd6)","timestamp":"2025-05-09T00:26:13.406Z"}
+{"level":"info","message":"Saved price for product: Bernard Regensburger Pris 10g Doser - $3.06","timestamp":"2025-05-09T00:26:13.492Z"}
+{"level":"info","message":"Saved product: Bernard Postillion 10g Doser (ID: b1603163-649b-4c4b-a7af-cd9c6fc2ed4c)","timestamp":"2025-05-09T00:26:13.742Z"}
+{"level":"info","message":"Saved price for product: Bernard Postillion 10g Doser - $3.06","timestamp":"2025-05-09T00:26:13.823Z"}
+{"level":"info","message":"Saved product: Bernard Magic Moments White 10g Doser (ID: 17069da1-86be-4d66-8e80-e9c94b46bb61)","timestamp":"2025-05-09T00:26:14.097Z"}
+{"level":"info","message":"Saved price for product: Bernard Magic Moments White 10g Doser - $3.06","timestamp":"2025-05-09T00:26:14.178Z"}
+{"level":"info","message":"Saved product: Bernard Tiger C 10g Doser (ID: 0d97dd9f-6b3c-43c7-ba05-6961f2ab4161)","timestamp":"2025-05-09T00:26:14.418Z"}
+{"level":"info","message":"Saved price for product: Bernard Tiger C 10g Doser - $3.06","timestamp":"2025-05-09T00:26:14.498Z"}
+{"level":"info","message":"Saved product: Bernard Tiger G 10g Doser (ID: eaa21584-1982-440b-9b5b-2bc141cc7143)","timestamp":"2025-05-09T00:26:14.745Z"}
+{"level":"info","message":"Saved price for product: Bernard Tiger G 10g Doser - $3.06","timestamp":"2025-05-09T00:26:14.824Z"}
+{"level":"info","message":"Saved product: Bernard Eiskristall 10g Doser (ID: 2447ed41-9e2d-4d33-9394-f0954968a5f7)","timestamp":"2025-05-09T00:26:15.063Z"}
+{"level":"info","message":"Saved price for product: Bernard Eiskristall 10g Doser - $3.06","timestamp":"2025-05-09T00:26:15.163Z"}
+{"level":"info","message":"Saved product: Bernard Gekachelter Virginie 50g (ID: aaa51923-af29-4d24-97c1-606b629e25d0)","timestamp":"2025-05-09T00:26:15.436Z"}
+{"level":"info","message":"Saved price for product: Bernard Gekachelter Virginie 50g - $5.75","timestamp":"2025-05-09T00:26:15.516Z"}
+{"level":"info","message":"Scraping category: Dr Rumney’s","timestamp":"2025-05-09T00:26:15.517Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/dr-rumneys/tap-tin-dr-rumneys/","timestamp":"2025-05-09T00:26:15.517Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/dr-rumneys/tap-tin-dr-rumneys/","timestamp":"2025-05-09T00:26:15.518Z"}
+{"level":"info","message":"No subcategories found in category Dr Rumney’s, treating as product page","timestamp":"2025-05-09T00:26:18.283Z"}
+{"level":"info","message":"Found 1 pages in category Dr Rumney’s","timestamp":"2025-05-09T00:26:18.284Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category Dr Rumney’s","timestamp":"2025-05-09T00:26:18.284Z"}
+{"level":"info","message":"Found 15 products on page 1 of 1 in category Dr Rumney’s","timestamp":"2025-05-09T00:26:21.088Z"}
+{"level":"info","message":"Found 15 total products in category Dr Rumney’s","timestamp":"2025-05-09T00:26:21.089Z"}
+{"level":"info","message":"Saved product: Dr Rumney’s Blue (ID: cbdabe6e-f9e7-4838-ab81-cef2d2aa2098)","timestamp":"2025-05-09T00:26:21.334Z"}
+{"level":"info","message":"Saved price for product: Dr Rumney’s Blue - $0.99","timestamp":"2025-05-09T00:26:21.422Z"}
+{"level":"info","message":"Saved product: DR. Rumney’s Brown (ID: 557681c7-e69c-425d-aa5e-ce3ebb071192)","timestamp":"2025-05-09T00:26:21.665Z"}
+{"level":"info","message":"Saved price for product: DR. Rumney’s Brown - $0.99","timestamp":"2025-05-09T00:26:21.748Z"}
+{"level":"info","message":"Saved product: Dr Rumney’s Green (ID: 41a8c0da-6627-48fb-a65d-802a7e91937b)","timestamp":"2025-05-09T00:26:21.996Z"}
+{"level":"info","message":"Saved price for product: Dr Rumney’s Green - $0.99","timestamp":"2025-05-09T00:26:22.078Z"}
+{"level":"info","message":"Saved product: DR. Rumney’s Green Small Tin 5G (ID: c7d55d2b-f210-4bd7-9b9a-7bcacdee075a)","timestamp":"2025-05-09T00:26:22.317Z"}
+{"level":"info","message":"Saved price for product: DR. Rumney’s Green Small Tin 5G - $1.39","timestamp":"2025-05-09T00:26:22.396Z"}
+{"level":"info","message":"Saved product: DR. Rumney’s Green Tap Tin 5g (ID: 675d00b0-059c-4388-8346-998a37b8b4e1)","timestamp":"2025-05-09T00:26:22.636Z"}
+{"level":"info","message":"Saved price for product: DR. Rumney’s Green Tap Tin 5g - $1.39","timestamp":"2025-05-09T00:26:22.716Z"}
+{"level":"info","message":"Saved product: DR. Rumney’s Brown Small Tin 5G (ID: 1089ed4e-8c5f-48e1-9952-8361d034ff5d)","timestamp":"2025-05-09T00:26:22.955Z"}
+{"level":"info","message":"Saved price for product: DR. Rumney’s Brown Small Tin 5G - $1.39","timestamp":"2025-05-09T00:26:23.037Z"}
+{"level":"info","message":"Saved product: DR. Rumney’s Brown Tap Tin 5g (ID: 82edd121-2870-4d7f-aac2-e81dff1c0e84)","timestamp":"2025-05-09T00:26:23.295Z"}
+{"level":"info","message":"Saved price for product: DR. Rumney’s Brown Tap Tin 5g - $1.39","timestamp":"2025-05-09T00:26:23.380Z"}
+{"level":"info","message":"Saved product: DR. Rumney’s Blue Small Tin 5G (ID: 361ada23-bd6d-45ee-8603-98a007b92d52)","timestamp":"2025-05-09T00:26:23.625Z"}
+{"level":"info","message":"Saved price for product: DR. Rumney’s Blue Small Tin 5G - $1.39","timestamp":"2025-05-09T00:26:23.704Z"}
+{"level":"info","message":"Saved product: Dr Rumney’s Blue Tap Tin 5g (ID: 94e42417-f460-468d-b5f8-77543b001072)","timestamp":"2025-05-09T00:26:23.946Z"}
+{"level":"info","message":"Saved price for product: Dr Rumney’s Blue Tap Tin 5g - $1.39","timestamp":"2025-05-09T00:26:24.026Z"}
+{"level":"info","message":"Saved product: DR. Rumney’s Brown Medium Tin 10G (ID: dcb00539-40b6-4571-9902-9e07d7ddb5c8)","timestamp":"2025-05-09T00:26:24.262Z"}
+{"level":"info","message":"Saved price for product: DR. Rumney’s Brown Medium Tin 10G - $2.89","timestamp":"2025-05-09T00:26:24.343Z"}
+{"level":"info","message":"Saved product: DR. Rumney’s Green Medium Tin 10g (ID: cb32dd26-b018-49f1-9591-79a597f4b399)","timestamp":"2025-05-09T00:26:24.596Z"}
+{"level":"info","message":"Saved price for product: DR. Rumney’s Green Medium Tin 10g - $2.89","timestamp":"2025-05-09T00:26:24.684Z"}
+{"level":"info","message":"Saved product: DR. Rumney’s Blue Medium Tin 10G (ID: 12823c9e-b2f7-494a-b1e1-9e17b6210427)","timestamp":"2025-05-09T00:26:24.921Z"}
+{"level":"info","message":"Saved price for product: DR. Rumney’s Blue Medium Tin 10G - $2.89","timestamp":"2025-05-09T00:26:25.001Z"}
+{"level":"info","message":"Saved product: DR. Rumney’s Green Large Tin 20G (ID: c0fdce4c-34fe-498b-933b-78c414cea9e0)","timestamp":"2025-05-09T00:26:25.238Z"}
+{"level":"info","message":"Saved price for product: DR. Rumney’s Green Large Tin 20G - $3.89","timestamp":"2025-05-09T00:26:25.318Z"}
+{"level":"info","message":"Saved product: DR. Rumney’s Brown Large Tin 20G (ID: 9d1d71e5-d7f6-4384-a9c4-4e259f33f7b9)","timestamp":"2025-05-09T00:26:25.554Z"}
+{"level":"info","message":"Saved price for product: DR. Rumney’s Brown Large Tin 20G - $3.89","timestamp":"2025-05-09T00:26:25.636Z"}
+{"level":"info","message":"Saved product: DR. Rumney’s Blue Large Tin 20G (ID: 904eefaa-4f75-41ae-b618-fde0561ed6f5)","timestamp":"2025-05-09T00:26:25.873Z"}
+{"level":"info","message":"Saved price for product: DR. Rumney’s Blue Large Tin 20G - $3.89","timestamp":"2025-05-09T00:26:25.954Z"}
+{"level":"info","message":"Scraping category: Fribourg and Treyer","timestamp":"2025-05-09T00:26:25.955Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/fribourg-and-treyer1/","timestamp":"2025-05-09T00:26:25.955Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/fribourg-and-treyer1/","timestamp":"2025-05-09T00:26:25.955Z"}
+{"level":"info","message":"Found 6 subcategories in category Fribourg and Treyer","timestamp":"2025-05-09T00:26:28.637Z"}
+{"level":"info","message":"Scraping subcategory: 500g Pouches (13)","timestamp":"2025-05-09T00:26:28.637Z"}
+{"level":"info","message":"Fetching subcategory page: https://www.toquesnuff.com/product-category/fribourg-and-treyer1/500g-pouches/","timestamp":"2025-05-09T00:26:28.637Z"}
+{"level":"info","message":"Found 1 pages in subcategory 500g Pouches (13)","timestamp":"2025-05-09T00:26:31.194Z"}
+{"level":"info","message":"Scraping page 1 of 1 in subcategory 500g Pouches (13)","timestamp":"2025-05-09T00:26:31.194Z"}
+{"level":"info","message":"Found 13 products on page 1 of 1 in subcategory 500g Pouches (13)","timestamp":"2025-05-09T00:26:33.717Z"}
+{"level":"info","message":"Found 13 total products in subcategory 500g Pouches (13)","timestamp":"2025-05-09T00:26:33.717Z"}
+{"level":"info","message":"Saved product: French Carotte 500g Economy Pouch (ID: 0265b337-556d-48fa-9e4d-c4e13365525c)","timestamp":"2025-05-09T00:26:33.952Z"}
+{"level":"info","message":"Saved price for product: French Carotte 500g Economy Pouch - $55.99","timestamp":"2025-05-09T00:26:34.032Z"}
+{"level":"info","message":"Saved product: High Dry Toast 500g Economy Pouch (ID: fcfdd60a-6157-47d3-a7f1-65ca8457bd0e)","timestamp":"2025-05-09T00:26:34.270Z"}
+{"level":"info","message":"Saved price for product: High Dry Toast 500g Economy Pouch - $55.99","timestamp":"2025-05-09T00:26:34.355Z"}
+{"level":"info","message":"Saved product: Patchouli 500g Economy Pouch (ID: 18ecc8b5-1ae0-476e-97ca-368c15194dca)","timestamp":"2025-05-09T00:26:34.598Z"}
+{"level":"info","message":"Saved price for product: Patchouli 500g Economy Pouch - $55.99","timestamp":"2025-05-09T00:26:34.678Z"}
+{"level":"info","message":"Saved product: Santo Domingo 500g Economy Pouch (ID: 9be62cc8-9cba-442a-8f91-42b50cb204f1)","timestamp":"2025-05-09T00:26:34.937Z"}
+{"level":"info","message":"Saved price for product: Santo Domingo 500g Economy Pouch - $55.99","timestamp":"2025-05-09T00:26:35.018Z"}
+{"level":"info","message":"Saved product: Seville 500g Economy Pouch (ID: 51c5ee9d-4f64-4739-8f50-1638f4b9df4b)","timestamp":"2025-05-09T00:26:35.264Z"}
+{"level":"info","message":"Saved price for product: Seville 500g Economy Pouch - $55.99","timestamp":"2025-05-09T00:26:35.345Z"}
+{"level":"info","message":"Saved product: Bordeaux 500g Economy Pouch (ID: a2849e6c-cdc7-4663-a53c-95a6cf147a2a)","timestamp":"2025-05-09T00:26:35.588Z"}
+{"level":"info","message":"Saved price for product: Bordeaux 500g Economy Pouch - $55.99","timestamp":"2025-05-09T00:26:35.669Z"}
+{"level":"info","message":"Saved product: Macouba 500g Economy Pouch (ID: 87450918-649d-4a38-a56c-ac89366d44eb)","timestamp":"2025-05-09T00:26:35.911Z"}
+{"level":"info","message":"Saved price for product: Macouba 500g Economy Pouch - $55.99","timestamp":"2025-05-09T00:26:35.992Z"}
+{"level":"info","message":"Saved product: Morlaix 500g Economy Pouch (ID: 1b2dcb0b-c963-42be-8346-b46bbf517e10)","timestamp":"2025-05-09T00:26:36.242Z"}
+{"level":"info","message":"Saved price for product: Morlaix 500g Economy Pouch - $55.99","timestamp":"2025-05-09T00:26:36.324Z"}
+{"level":"info","message":"Saved product: Old Paris 500g Economy Pouch (ID: 4e00a251-fdde-411d-8991-d6dccb25828b)","timestamp":"2025-05-09T00:26:36.563Z"}
+{"level":"info","message":"Saved price for product: Old Paris 500g Economy Pouch - $55.99","timestamp":"2025-05-09T00:26:36.642Z"}
+{"level":"info","message":"Saved product: Patch 500g Economy Pouch (ID: 04986b1f-dade-465e-a923-7d0fa5926cdc)","timestamp":"2025-05-09T00:26:36.879Z"}
+{"level":"info","message":"Saved price for product: Patch 500g Economy Pouch - $55.99","timestamp":"2025-05-09T00:26:36.960Z"}
+{"level":"info","message":"Saved product: Princes 500g Economy Pouch (ID: 62ba27f3-df10-463a-bd6c-48c780af2a14)","timestamp":"2025-05-09T00:26:37.197Z"}
+{"level":"info","message":"Saved price for product: Princes 500g Economy Pouch - $55.99","timestamp":"2025-05-09T00:26:37.279Z"}
+{"level":"info","message":"Saved product: Princes Special 500g Economy Pouch (ID: abedd7f6-8d50-4955-872d-8f256d4e490f)","timestamp":"2025-05-09T00:26:37.516Z"}
+{"level":"info","message":"Saved price for product: Princes Special 500g Economy Pouch - $55.99","timestamp":"2025-05-09T00:26:37.596Z"}
+{"level":"info","message":"Saved product: Dr J R Justice 500g Economy Pouch (ID: e51d44c1-6de0-41be-9a7d-5cc7461756ff)","timestamp":"2025-05-09T00:26:37.837Z"}
+{"level":"info","message":"Saved price for product: Dr J R Justice 500g Economy Pouch - $55.99","timestamp":"2025-05-09T00:26:37.938Z"}
+{"level":"info","message":"Scraping subcategory: 250g Tubs/pouches (13)","timestamp":"2025-05-09T00:26:37.938Z"}
+{"level":"info","message":"Fetching subcategory page: https://www.toquesnuff.com/product-category/fribourg-and-treyer1/250g-tubs-pouches/","timestamp":"2025-05-09T00:26:37.938Z"}
+{"level":"info","message":"Found 1 pages in subcategory 250g Tubs/pouches (13)","timestamp":"2025-05-09T00:26:40.688Z"}
+{"level":"info","message":"Scraping page 1 of 1 in subcategory 250g Tubs/pouches (13)","timestamp":"2025-05-09T00:26:40.689Z"}
+{"level":"info","message":"Found 13 products on page 1 of 1 in subcategory 250g Tubs/pouches (13)","timestamp":"2025-05-09T00:26:43.293Z"}
+{"level":"info","message":"Found 13 total products in subcategory 250g Tubs/pouches (13)","timestamp":"2025-05-09T00:26:43.293Z"}
+{"level":"info","message":"Saved product: High Dry Toast 250g Economy Pouch (ID: 3af37967-6ef5-4efe-b882-69d5105021c7)","timestamp":"2025-05-09T00:26:43.532Z"}
+{"level":"info","message":"Saved price for product: High Dry Toast 250g Economy Pouch - $31.99","timestamp":"2025-05-09T00:26:43.612Z"}
+{"level":"info","message":"Saved product: Santo Domingo 250g Economy Pouch (ID: 3da360de-df58-4c39-b9f9-64cc20339705)","timestamp":"2025-05-09T00:26:43.856Z"}
+{"level":"info","message":"Saved price for product: Santo Domingo 250g Economy Pouch - $31.99","timestamp":"2025-05-09T00:26:43.936Z"}
+{"level":"info","message":"Saved product: Patchouli 250g Economy Pouch (ID: 065bd7c2-d32f-494e-9543-a153ca9326e3)","timestamp":"2025-05-09T00:26:44.176Z"}
+{"level":"info","message":"Saved price for product: Patchouli 250g Economy Pouch - $31.99","timestamp":"2025-05-09T00:26:44.256Z"}
+{"level":"info","message":"Saved product: French Carotte 250g Economy Pouch (ID: 3f690052-7e21-496f-a768-1e55b9495b23)","timestamp":"2025-05-09T00:26:44.494Z"}
+{"level":"info","message":"Saved price for product: French Carotte 250g Economy Pouch - $31.99","timestamp":"2025-05-09T00:26:44.574Z"}
+{"level":"info","message":"Saved product: Seville 250g Economy Pouch (ID: d708f632-9d55-41f4-8495-abf73f112464)","timestamp":"2025-05-09T00:26:44.820Z"}
+{"level":"info","message":"Saved price for product: Seville 250g Economy Pouch - $31.99","timestamp":"2025-05-09T00:26:44.900Z"}
+{"level":"info","message":"Saved product: Bordeaux 250g Economy Pouch (ID: 27639fd8-9338-4489-bf32-501ae4f5632d)","timestamp":"2025-05-09T00:26:45.138Z"}
+{"level":"info","message":"Saved price for product: Bordeaux 250g Economy Pouch - $31.99","timestamp":"2025-05-09T00:26:45.220Z"}
+{"level":"info","message":"Saved product: Macouba 250g Economy Pouch (ID: ab9348e3-3f35-4aff-9851-159e05447232)","timestamp":"2025-05-09T00:26:45.456Z"}
+{"level":"info","message":"Saved price for product: Macouba 250g Economy Pouch - $31.99","timestamp":"2025-05-09T00:26:45.538Z"}
+{"level":"info","message":"Saved product: Morlaix 250g Economy Pouch (ID: b74a684d-2751-49ad-9c92-975217b8a242)","timestamp":"2025-05-09T00:26:45.821Z"}
+{"level":"info","message":"Saved price for product: Morlaix 250g Economy Pouch - $31.99","timestamp":"2025-05-09T00:26:45.900Z"}
+{"level":"info","message":"Saved product: Old Paris 250g Economy Pouch (ID: 18469f2d-02a9-4810-a18d-cd723e98b165)","timestamp":"2025-05-09T00:26:46.138Z"}
+{"level":"info","message":"Saved price for product: Old Paris 250g Economy Pouch - $31.99","timestamp":"2025-05-09T00:26:46.218Z"}
+{"level":"info","message":"Saved product: Patch 250g Economy Pouch (ID: aebe0acb-e1d6-4ee9-a717-2f219d5170f9)","timestamp":"2025-05-09T00:26:46.466Z"}
+{"level":"info","message":"Saved price for product: Patch 250g Economy Pouch - $31.99","timestamp":"2025-05-09T00:26:46.550Z"}
+{"level":"info","message":"Saved product: Princes 250g Economy Pouch (ID: 2f9f0045-40a5-4c50-b294-0d4723619afb)","timestamp":"2025-05-09T00:26:46.806Z"}
+{"level":"info","message":"Saved price for product: Princes 250g Economy Pouch - $31.99","timestamp":"2025-05-09T00:26:46.886Z"}
+{"level":"info","message":"Saved product: Princes Special 250g Economy Pouch (ID: 3c164eaf-3368-4d56-a905-bcb8831aaf8a)","timestamp":"2025-05-09T00:26:47.123Z"}
+{"level":"info","message":"Saved price for product: Princes Special 250g Economy Pouch - $31.99","timestamp":"2025-05-09T00:26:47.204Z"}
+{"level":"info","message":"Saved product: Dr J R Justice 250g Economy Pouch (ID: 534669d4-1d7f-4e26-9968-10c9917b81be)","timestamp":"2025-05-09T00:26:47.442Z"}
+{"level":"info","message":"Saved price for product: Dr J R Justice 250g Economy Pouch - $31.99","timestamp":"2025-05-09T00:26:47.527Z"}
+{"level":"info","message":"Scraping subcategory: 100g Tubs/pouches (13)","timestamp":"2025-05-09T00:26:47.527Z"}
+{"level":"info","message":"Fetching subcategory page: https://www.toquesnuff.com/product-category/fribourg-and-treyer1/100g-tubs-pouches/","timestamp":"2025-05-09T00:26:47.528Z"}
+{"level":"info","message":"Found 1 pages in subcategory 100g Tubs/pouches (13)","timestamp":"2025-05-09T00:26:50.190Z"}
+{"level":"info","message":"Scraping page 1 of 1 in subcategory 100g Tubs/pouches (13)","timestamp":"2025-05-09T00:26:50.191Z"}
+{"level":"info","message":"Found 13 products on page 1 of 1 in subcategory 100g Tubs/pouches (13)","timestamp":"2025-05-09T00:26:52.756Z"}
+{"level":"info","message":"Found 13 total products in subcategory 100g Tubs/pouches (13)","timestamp":"2025-05-09T00:26:52.757Z"}
+{"level":"info","message":"Saved product: French Carotte 100g Economy Pouch (ID: c11fbd71-0bca-4453-a538-c8360866f2c1)","timestamp":"2025-05-09T00:26:53.008Z"}
+{"level":"info","message":"Saved price for product: French Carotte 100g Economy Pouch - $13.49","timestamp":"2025-05-09T00:26:53.096Z"}
+{"level":"info","message":"Saved product: Patchouli 100g Economy Pouch (ID: 473375e2-981e-4dd7-aed6-4168c885dfac)","timestamp":"2025-05-09T00:26:53.336Z"}
+{"level":"info","message":"Saved price for product: Patchouli 100g Economy Pouch - $13.49","timestamp":"2025-05-09T00:26:53.418Z"}
+{"level":"info","message":"Saved product: Santo Domingo 100g Economy Pouch (ID: 63688589-d226-4ff1-9488-08742776bb54)","timestamp":"2025-05-09T00:26:53.656Z"}
+{"level":"info","message":"Saved price for product: Santo Domingo 100g Economy Pouch - $13.49","timestamp":"2025-05-09T00:26:53.736Z"}
+{"level":"info","message":"Saved product: High Dry Toast 100g Economy Pouch (ID: 4aa77af4-7ea3-4197-a617-409459d4de44)","timestamp":"2025-05-09T00:26:53.983Z"}
+{"level":"info","message":"Saved price for product: High Dry Toast 100g Economy Pouch - $13.49","timestamp":"2025-05-09T00:26:54.062Z"}
+{"level":"info","message":"Saved product: Seville 100g Economy Pouch (ID: 97621d0f-13be-4557-a0ce-3639e2f667b1)","timestamp":"2025-05-09T00:26:54.302Z"}
+{"level":"info","message":"Saved price for product: Seville 100g Economy Pouch - $13.49","timestamp":"2025-05-09T00:26:54.382Z"}
+{"level":"info","message":"Saved product: Bordeaux 100g Economy Pouch (ID: 14b136a5-38cd-494a-9e18-89166004126f)","timestamp":"2025-05-09T00:26:54.620Z"}
+{"level":"info","message":"Saved price for product: Bordeaux 100g Economy Pouch - $13.49","timestamp":"2025-05-09T00:26:54.700Z"}
+{"level":"info","message":"Saved product: Macouba 100g Economy Pouch (ID: 3e647e2b-a5b6-4b67-ac53-104c952a8526)","timestamp":"2025-05-09T00:26:54.956Z"}
+{"level":"info","message":"Saved price for product: Macouba 100g Economy Pouch - $13.49","timestamp":"2025-05-09T00:26:55.036Z"}
+{"level":"info","message":"Saved product: Morlaix 100g Economy Pouch (ID: 5308ea33-d71f-470e-a768-7cc39b7d2685)","timestamp":"2025-05-09T00:26:55.277Z"}
+{"level":"info","message":"Saved price for product: Morlaix 100g Economy Pouch - $13.49","timestamp":"2025-05-09T00:26:55.358Z"}
+{"level":"info","message":"Saved product: Old Paris 100g Economy Pouch (ID: d9b5caac-22b1-4aef-bdba-a7065c74c881)","timestamp":"2025-05-09T00:26:55.594Z"}
+{"level":"info","message":"Saved price for product: Old Paris 100g Economy Pouch - $13.49","timestamp":"2025-05-09T00:26:55.677Z"}
+{"level":"info","message":"Saved product: Patch 100g Economy Pouch (ID: dc245e54-b360-4eb9-ae3c-843ad00530e6)","timestamp":"2025-05-09T00:26:55.936Z"}
+{"level":"info","message":"Saved price for product: Patch 100g Economy Pouch - $13.49","timestamp":"2025-05-09T00:26:56.016Z"}
+{"level":"info","message":"Saved product: Princes 100g Economy Pouch (ID: 992be505-42eb-4ff3-a28a-b683680e994f)","timestamp":"2025-05-09T00:26:56.254Z"}
+{"level":"info","message":"Saved price for product: Princes 100g Economy Pouch - $13.49","timestamp":"2025-05-09T00:26:56.336Z"}
+{"level":"info","message":"Saved product: Princes Special 100g Economy Pouch (ID: 56554698-8be0-4b93-b3fc-195a45dc60bf)","timestamp":"2025-05-09T00:26:56.586Z"}
+{"level":"info","message":"Saved price for product: Princes Special 100g Economy Pouch - $13.49","timestamp":"2025-05-09T00:26:56.669Z"}
+{"level":"info","message":"Saved product: Dr J R Justice 100g Economy Pouch (ID: 82c9c91f-0560-416f-b5cc-4ef1e6c6102e)","timestamp":"2025-05-09T00:26:56.913Z"}
+{"level":"info","message":"Saved price for product: Dr J R Justice 100g Economy Pouch - $13.49","timestamp":"2025-05-09T00:26:57.014Z"}
+{"level":"info","message":"Scraping subcategory: Tap Tins (12)","timestamp":"2025-05-09T00:26:57.015Z"}
+{"level":"info","message":"Fetching subcategory page: https://www.toquesnuff.com/product-category/fribourg-and-treyer1/tap-tins/","timestamp":"2025-05-09T00:26:57.015Z"}
+{"level":"info","message":"Found 1 pages in subcategory Tap Tins (12)","timestamp":"2025-05-09T00:26:59.729Z"}
+{"level":"info","message":"Scraping page 1 of 1 in subcategory Tap Tins (12)","timestamp":"2025-05-09T00:26:59.729Z"}
+{"level":"info","message":"Found 12 products on page 1 of 1 in subcategory Tap Tins (12)","timestamp":"2025-05-09T00:27:02.279Z"}
+{"level":"info","message":"Found 12 total products in subcategory Tap Tins (12)","timestamp":"2025-05-09T00:27:02.279Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Morlaix Tap Tin (ID: 775afdc5-6533-4af2-9618-f03a309f35a9)","timestamp":"2025-05-09T00:27:02.520Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Morlaix Tap Tin - $2.39","timestamp":"2025-05-09T00:27:02.600Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Santo Domingo Tap Tin (ID: 5eebb00a-fd2e-49ff-995a-a30bc35ec16e)","timestamp":"2025-05-09T00:27:02.884Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Santo Domingo Tap Tin - $2.39","timestamp":"2025-05-09T00:27:02.970Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Bordeaux Tap Tin (ID: 2bf7172d-41ed-4739-acd4-65efe9c74c31)","timestamp":"2025-05-09T00:27:03.210Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Bordeaux Tap Tin - $2.51","timestamp":"2025-05-09T00:27:03.290Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer DR. J.R. Justice Tap Tin (ID: 114dd69e-c0ba-4749-8031-ca70ff352c1e)","timestamp":"2025-05-09T00:27:03.536Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer DR. J.R. Justice Tap Tin - $2.51","timestamp":"2025-05-09T00:27:03.618Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer French Carotte Tap Tin (ID: 94068f10-f0da-4f87-b536-fc4d1c7fc5d3)","timestamp":"2025-05-09T00:27:03.865Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer French Carotte Tap Tin - $2.51","timestamp":"2025-05-09T00:27:03.945Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Macouba Tap Tin (ID: c36ed979-7ce9-422a-847b-b3a0396163a5)","timestamp":"2025-05-09T00:27:04.190Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Macouba Tap Tin - $2.51","timestamp":"2025-05-09T00:27:04.271Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Old Paris Tap Tin (ID: 4f0433b6-b8e5-4434-a71d-5acd4162e26b)","timestamp":"2025-05-09T00:27:04.511Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Old Paris Tap Tin - $2.51","timestamp":"2025-05-09T00:27:04.594Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Patch Tap Tin (ID: 487a26ac-9985-470b-8449-f778c72c6547)","timestamp":"2025-05-09T00:27:04.838Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Patch Tap Tin - $2.51","timestamp":"2025-05-09T00:27:04.920Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Princes Special Tap Tin (ID: ec5f60ef-a3e2-4c16-b667-eaa447b93993)","timestamp":"2025-05-09T00:27:05.158Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Princes Special Tap Tin - $2.51","timestamp":"2025-05-09T00:27:05.239Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Princes Tap Tin (ID: b9259257-84ff-4228-a9bc-bf3bffadb814)","timestamp":"2025-05-09T00:27:05.477Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Princes Tap Tin - $2.51","timestamp":"2025-05-09T00:27:05.567Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Seville Tap Tin (ID: 334be757-b4b3-49ce-8932-87db1b0ddd62)","timestamp":"2025-05-09T00:27:05.826Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Seville Tap Tin - $2.51","timestamp":"2025-05-09T00:27:05.907Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer High Dry Toast Tap Tin (ID: 62f9f34e-ba59-4f36-be05-66250014cda9)","timestamp":"2025-05-09T00:27:06.158Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer High Dry Toast Tap Tin - $2.51","timestamp":"2025-05-09T00:27:06.240Z"}
+{"level":"info","message":"Scraping subcategory: Tins (12)","timestamp":"2025-05-09T00:27:06.241Z"}
+{"level":"info","message":"Fetching subcategory page: https://www.toquesnuff.com/product-category/fribourg-and-treyer1/tins/","timestamp":"2025-05-09T00:27:06.241Z"}
+{"level":"info","message":"Found 1 pages in subcategory Tins (12)","timestamp":"2025-05-09T00:27:08.803Z"}
+{"level":"info","message":"Scraping page 1 of 1 in subcategory Tins (12)","timestamp":"2025-05-09T00:27:08.803Z"}
+{"level":"info","message":"Found 12 products on page 1 of 1 in subcategory Tins (12)","timestamp":"2025-05-09T00:27:11.305Z"}
+{"level":"info","message":"Found 12 total products in subcategory Tins (12)","timestamp":"2025-05-09T00:27:11.306Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Bordeaux 20G Tin (ID: 8d4f9a5d-c05b-431b-92c6-8a3e0e90979f)","timestamp":"2025-05-09T00:27:11.559Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Bordeaux 20G Tin - $5.52","timestamp":"2025-05-09T00:27:11.641Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer French Carotte 20G Tin (ID: 0df22ce2-1245-4418-8c60-38abe0c0c5bd)","timestamp":"2025-05-09T00:27:11.880Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer French Carotte 20G Tin - $5.52","timestamp":"2025-05-09T00:27:12.271Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer High Dry Toast 20G Tin (ID: 9bb5fd6b-40a2-4a19-958e-836f046eefcb)","timestamp":"2025-05-09T00:27:12.517Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer High Dry Toast 20G Tin - $5.52","timestamp":"2025-05-09T00:27:12.613Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Macouba 20G Tin (ID: 6e1645f7-8bc5-49fc-8fba-3a295bc6b3e9)","timestamp":"2025-05-09T00:27:12.851Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Macouba 20G Tin - $5.52","timestamp":"2025-05-09T00:27:12.932Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Morlaix 20G Tin (ID: 7d5b281f-f5bd-4b26-af86-2462c06ebbbe)","timestamp":"2025-05-09T00:27:13.168Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Morlaix 20G Tin - $5.52","timestamp":"2025-05-09T00:27:13.248Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Old Paris 20G Tin (ID: 7712e5d9-ffe4-416e-b4c9-0bd3ea7df30d)","timestamp":"2025-05-09T00:27:13.489Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Old Paris 20G Tin - $5.52","timestamp":"2025-05-09T00:27:13.580Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Patch 20G Tin (ID: 9e4c0369-cf4e-40ff-8e16-7be64c157b0c)","timestamp":"2025-05-09T00:27:13.824Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Patch 20G Tin - $5.52","timestamp":"2025-05-09T00:27:13.906Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Princes 20G Tin (ID: 3eed5d87-1692-4f4f-91cf-b4cad910cd41)","timestamp":"2025-05-09T00:27:14.144Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Princes 20G Tin - $5.52","timestamp":"2025-05-09T00:27:14.226Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Princes Special 20G Tin (ID: 4d1ec112-1436-4e64-bc8b-18dd6cde7b02)","timestamp":"2025-05-09T00:27:14.462Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Princes Special 20G Tin - $5.52","timestamp":"2025-05-09T00:27:14.542Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Santo Domingo 20G Tin (ID: 9aa7e9f0-de4d-481c-9581-3adf85285390)","timestamp":"2025-05-09T00:27:14.778Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Santo Domingo 20G Tin - $5.52","timestamp":"2025-05-09T00:27:14.858Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Seville 20G Tin (ID: 76b663f8-5a86-49e8-aecb-c5d29f1bfb1a)","timestamp":"2025-05-09T00:27:15.099Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Seville 20G Tin - $5.52","timestamp":"2025-05-09T00:27:15.183Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer DR. J.R. Justice 20G Tin (ID: cad7063b-fd06-4e74-be47-5015631af888)","timestamp":"2025-05-09T00:27:15.418Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer DR. J.R. Justice 20G Tin - $5.52","timestamp":"2025-05-09T00:27:15.498Z"}
+{"level":"info","message":"Scraping subcategory: 400G Economy Pouches (2)","timestamp":"2025-05-09T00:27:15.498Z"}
+{"level":"info","message":"Fetching subcategory page: https://www.toquesnuff.com/product-category/fribourg-and-treyer1/400g/","timestamp":"2025-05-09T00:27:15.499Z"}
+{"level":"info","message":"Found 1 pages in subcategory 400G Economy Pouches (2)","timestamp":"2025-05-09T00:27:18.088Z"}
+{"level":"info","message":"Scraping page 1 of 1 in subcategory 400G Economy Pouches (2)","timestamp":"2025-05-09T00:27:18.089Z"}
+{"level":"info","message":"Found 2 products on page 1 of 1 in subcategory 400G Economy Pouches (2)","timestamp":"2025-05-09T00:27:20.522Z"}
+{"level":"info","message":"Found 2 total products in subcategory 400G Economy Pouches (2)","timestamp":"2025-05-09T00:27:20.522Z"}
+{"level":"info","message":"Saved product: Fribourg & Treyer Patchouli 400g Economy Pouch (ID: c53ff269-5cd2-477d-b2fe-048ea8f16983)","timestamp":"2025-05-09T00:27:20.790Z"}
+{"level":"info","message":"Saved price for product: Fribourg & Treyer Patchouli 400g Economy Pouch - $50.95","timestamp":"2025-05-09T00:27:20.870Z"}
+{"level":"info","message":"Saved product: Fribourg and Treyer French Carotte 400g Economy Pouch (ID: f9f95ac1-8b3c-4908-a42c-c678dad905f2)","timestamp":"2025-05-09T00:27:21.109Z"}
+{"level":"info","message":"Saved price for product: Fribourg and Treyer French Carotte 400g Economy Pouch - $50.95","timestamp":"2025-05-09T00:27:21.189Z"}
+{"level":"info","message":"Scraping category: Gawith Hoggarth","timestamp":"2025-05-09T00:27:21.190Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/gawith-hoggarth/","timestamp":"2025-05-09T00:27:21.190Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/gawith-hoggarth/","timestamp":"2025-05-09T00:27:21.190Z"}
+{"level":"info","message":"No subcategories found in category Gawith Hoggarth, treating as product page","timestamp":"2025-05-09T00:27:23.785Z"}
+{"level":"info","message":"Found 1 pages in category Gawith Hoggarth","timestamp":"2025-05-09T00:27:23.786Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category Gawith Hoggarth","timestamp":"2025-05-09T00:27:23.787Z"}
+{"level":"info","message":"Found 8 products on page 1 of 1 in category Gawith Hoggarth","timestamp":"2025-05-09T00:27:26.288Z"}
+{"level":"info","message":"Found 8 total products in category Gawith Hoggarth","timestamp":"2025-05-09T00:27:26.288Z"}
+{"level":"info","message":"Saved product: Gawith Hoggarth Cafe Regal Snuff 10g (ID: c3fc675d-e130-4ad9-84c3-addc80582a4e)","timestamp":"2025-05-09T00:27:26.528Z"}
+{"level":"info","message":"Saved price for product: Gawith Hoggarth Cafe Regal Snuff 10g - $2.51","timestamp":"2025-05-09T00:27:26.607Z"}
+{"level":"info","message":"Saved product: Gawith Hoggarth Special M Snuff 10g (ID: 82f9c948-f5a7-4855-83a5-18a5e429ed8b)","timestamp":"2025-05-09T00:27:26.844Z"}
+{"level":"info","message":"Saved price for product: Gawith Hoggarth Special M Snuff 10g - $2.51","timestamp":"2025-05-09T00:27:26.923Z"}
+{"level":"info","message":"Saved product: Gawith Hoggarth SP Snuff 10g (ID: 14103467-423e-4f2a-80ac-ab857f0c10ec)","timestamp":"2025-05-09T00:27:27.160Z"}
+{"level":"info","message":"Saved price for product: Gawith Hoggarth SP Snuff 10g - $2.51","timestamp":"2025-05-09T00:27:27.241Z"}
+{"level":"info","message":"Saved product: Gawith Hoggarth CM Snuff 10g (ID: 92aa56db-81f7-43b9-9c15-3834649abe6a)","timestamp":"2025-05-09T00:27:27.472Z"}
+{"level":"info","message":"Saved price for product: Gawith Hoggarth CM Snuff 10g - $2.51","timestamp":"2025-05-09T00:27:27.552Z"}
+{"level":"info","message":"Saved product: Gawith Hoggarth Cafe Regal Snuff 25g (ID: 13a49533-dcac-4eae-a4f8-cd5fdfebf255)","timestamp":"2025-05-09T00:27:27.792Z"}
+{"level":"info","message":"Saved price for product: Gawith Hoggarth Cafe Regal Snuff 25g - $3.98","timestamp":"2025-05-09T00:27:27.872Z"}
+{"level":"info","message":"Saved product: Gawith Hoggarth Special “M” 25g (ID: 18217718-26a0-4578-aa52-f6735f84f6f5)","timestamp":"2025-05-09T00:27:28.116Z"}
+{"level":"info","message":"Saved price for product: Gawith Hoggarth Special “M” 25g - $3.98","timestamp":"2025-05-09T00:27:28.204Z"}
+{"level":"info","message":"Saved product: Gawith Hoggarth SP snuff 25g (ID: 6987bc78-20f7-4605-b3f3-6465442c7766)","timestamp":"2025-05-09T00:27:28.450Z"}
+{"level":"info","message":"Saved price for product: Gawith Hoggarth SP snuff 25g - $3.98","timestamp":"2025-05-09T00:27:28.532Z"}
+{"level":"info","message":"Saved product: Gawith Hoggarth CM Snuff 25g (ID: a5aa48fc-69ad-43be-b5ea-57494e45cdf4)","timestamp":"2025-05-09T00:27:28.776Z"}
+{"level":"info","message":"Saved price for product: Gawith Hoggarth CM Snuff 25g - $3.98","timestamp":"2025-05-09T00:27:28.857Z"}
+{"level":"info","message":"Scraping category: Hedges","timestamp":"2025-05-09T00:27:28.857Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/hedges/","timestamp":"2025-05-09T00:27:28.858Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/hedges/","timestamp":"2025-05-09T00:27:28.858Z"}
+{"level":"info","message":"No subcategories found in category Hedges, treating as product page","timestamp":"2025-05-09T00:27:31.312Z"}
+{"level":"info","message":"Found 1 pages in category Hedges","timestamp":"2025-05-09T00:27:31.313Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category Hedges","timestamp":"2025-05-09T00:27:31.314Z"}
+{"level":"info","message":"Found 1 products on page 1 of 1 in category Hedges","timestamp":"2025-05-09T00:27:33.779Z"}
+{"level":"info","message":"Found 1 total products in category Hedges","timestamp":"2025-05-09T00:27:33.780Z"}
+{"level":"info","message":"Saved product: HEDGES L260 (The Snuff) LARGE (ID: dd0b642f-a1e7-4b1b-adfc-014e85e20bbc)","timestamp":"2025-05-09T00:27:34.022Z"}
+{"level":"info","message":"Saved price for product: HEDGES L260 (The Snuff) LARGE - $5.37","timestamp":"2025-05-09T00:27:34.102Z"}
+{"level":"info","message":"Scraping category: Jaxons","timestamp":"2025-05-09T00:27:34.103Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/jaxons/","timestamp":"2025-05-09T00:27:34.103Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/jaxons/","timestamp":"2025-05-09T00:27:34.103Z"}
+{"level":"info","message":"No subcategories found in category Jaxons, treating as product page","timestamp":"2025-05-09T00:27:36.509Z"}
+{"level":"info","message":"Found 1 pages in category Jaxons","timestamp":"2025-05-09T00:27:36.509Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category Jaxons","timestamp":"2025-05-09T00:27:36.510Z"}
+{"level":"info","message":"Found 0 products on page 1 of 1 in category Jaxons","timestamp":"2025-05-09T00:27:38.952Z"}
+{"level":"info","message":"Found 0 total products in category Jaxons","timestamp":"2025-05-09T00:27:38.952Z"}
+{"level":"info","message":"Scraping category: J&H Wilson","timestamp":"2025-05-09T00:27:38.953Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/jh-wilson/","timestamp":"2025-05-09T00:27:38.953Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/jh-wilson/","timestamp":"2025-05-09T00:27:38.953Z"}
+{"level":"info","message":"No subcategories found in category J&H Wilson, treating as product page","timestamp":"2025-05-09T00:27:41.502Z"}
+{"level":"info","message":"Found 1 pages in category J&H Wilson","timestamp":"2025-05-09T00:27:41.503Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category J&H Wilson","timestamp":"2025-05-09T00:27:41.504Z"}
+{"level":"info","message":"Found 5 products on page 1 of 1 in category J&H Wilson","timestamp":"2025-05-09T00:27:43.957Z"}
+{"level":"info","message":"Found 5 total products in category J&H Wilson","timestamp":"2025-05-09T00:27:43.958Z"}
+{"level":"info","message":"Saved product: J & H Wilsons M.E.D NO 99 5G TIN (ID: 58117a1c-fa96-4d07-9593-7232719e52ba)","timestamp":"2025-05-09T00:27:44.210Z"}
+{"level":"info","message":"Saved price for product: J & H Wilsons M.E.D NO 99 5G TIN - $2.31","timestamp":"2025-05-09T00:27:44.302Z"}
+{"level":"info","message":"Saved product: J & H Wilsons TOP MILL 5G TIN (ID: 471c6312-69e3-41cb-b2a2-b2d7ef992ddf)","timestamp":"2025-05-09T00:27:44.559Z"}
+{"level":"info","message":"Saved price for product: J & H Wilsons TOP MILL 5G TIN - $2.31","timestamp":"2025-05-09T00:27:44.642Z"}
+{"level":"info","message":"Saved product: J & H WILSON SP NO 1 5G TIN (ID: 53946a6e-a84c-4316-a54b-36a1f29fa964)","timestamp":"2025-05-09T00:27:44.891Z"}
+{"level":"info","message":"Saved price for product: J & H WILSON SP NO 1 5G TIN - $2.31","timestamp":"2025-05-09T00:27:44.972Z"}
+{"level":"info","message":"Saved product: J & H WILSON MEDICATED NO 99 20G TIN (ID: bfa77058-b74a-4cec-a0db-942e8db08666)","timestamp":"2025-05-09T00:27:45.209Z"}
+{"level":"info","message":"Saved price for product: J & H WILSON MEDICATED NO 99 20G TIN - $5.37","timestamp":"2025-05-09T00:27:45.289Z"}
+{"level":"info","message":"Saved product: J & H WILSON SP NO. 1 – 20G TIN (ID: afd0ede6-9ad7-460c-8125-e252c035c286)","timestamp":"2025-05-09T00:27:45.527Z"}
+{"level":"info","message":"Saved price for product: J & H WILSON SP NO. 1 – 20G TIN - $5.37","timestamp":"2025-05-09T00:27:45.608Z"}
+{"level":"info","message":"Scraping category: McChrystal’s","timestamp":"2025-05-09T00:27:45.608Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/mcchrytals-grouped/","timestamp":"2025-05-09T00:27:45.608Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/mcchrytals-grouped/","timestamp":"2025-05-09T00:27:45.609Z"}
+{"level":"info","message":"No subcategories found in category McChrystal’s, treating as product page","timestamp":"2025-05-09T00:27:48.766Z"}
+{"level":"info","message":"Found 1 pages in category McChrystal’s","timestamp":"2025-05-09T00:27:48.768Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category McChrystal’s","timestamp":"2025-05-09T00:27:48.768Z"}
+{"level":"info","message":"Found 19 products on page 1 of 1 in category McChrystal’s","timestamp":"2025-05-09T00:27:51.868Z"}
+{"level":"info","message":"Found 19 total products in category McChrystal’s","timestamp":"2025-05-09T00:27:51.868Z"}
+{"level":"info","message":"Saved product: McChrystals Aztec (ID: 0af4db73-be09-46b1-bb1e-e478df733859)","timestamp":"2025-05-09T00:27:52.157Z"}
+{"level":"info","message":"Saved price for product: McChrystals Aztec - From$1.29","timestamp":"2025-05-09T00:27:52.253Z"}
+{"level":"info","message":"Saved product: McChrystals Fine Keg (ID: df8e9315-14b1-4654-b1d9-dc8df54c1a4b)","timestamp":"2025-05-09T00:27:52.532Z"}
+{"level":"info","message":"Saved price for product: McChrystals Fine Keg - From$1.29","timestamp":"2025-05-09T00:27:52.612Z"}
+{"level":"info","message":"Saved product: McChrystals Glacier (ID: ce0efc0f-66b5-4c9a-b93a-a04233f55b26)","timestamp":"2025-05-09T00:27:52.853Z"}
+{"level":"info","message":"Saved price for product: McChrystals Glacier - From$1.29","timestamp":"2025-05-09T00:27:52.934Z"}
+{"level":"info","message":"Saved product: McChrystals Warm Glow (ID: c8131a2b-9305-4b3f-9724-95a6a1fecf1e)","timestamp":"2025-05-09T00:27:53.174Z"}
+{"level":"info","message":"Saved price for product: McChrystals Warm Glow - From$1.29","timestamp":"2025-05-09T00:27:53.254Z"}
+{"level":"info","message":"Saved product: McChrystals Mulled magic (ID: c156c595-bad2-4b1b-8523-f5725e9d49af)","timestamp":"2025-05-09T00:27:53.493Z"}
+{"level":"info","message":"Saved price for product: McChrystals Mulled magic - From$1.29","timestamp":"2025-05-09T00:27:53.573Z"}
+{"level":"info","message":"Saved product: McChrystals Olde English (ID: 267f6d92-cd4d-48d1-bc6e-d0e8b2df388c)","timestamp":"2025-05-09T00:27:53.823Z"}
+{"level":"info","message":"Saved price for product: McChrystals Olde English - From$1.29","timestamp":"2025-05-09T00:27:53.902Z"}
+{"level":"info","message":"Saved product: McChrystals Sicilian Burst (ID: c13c020e-f0b8-4622-9f57-fd3d424d73bb)","timestamp":"2025-05-09T00:27:54.137Z"}
+{"level":"info","message":"Saved price for product: McChrystals Sicilian Burst - From$1.29","timestamp":"2025-05-09T00:27:54.218Z"}
+{"level":"info","message":"Saved product: McChrystals Star Gazer (ID: 6f85a430-acf5-4c17-aa8c-3af0d6748e7f)","timestamp":"2025-05-09T00:27:54.490Z"}
+{"level":"info","message":"Saved price for product: McChrystals Star Gazer - From$1.29","timestamp":"2025-05-09T00:27:54.571Z"}
+{"level":"info","message":"Saved product: McChrystals Sunblast (ID: cd8493f0-d357-477a-b5f9-fd5410b866e0)","timestamp":"2025-05-09T00:27:54.814Z"}
+{"level":"info","message":"Saved price for product: McChrystals Sunblast - From$1.29","timestamp":"2025-05-09T00:27:54.896Z"}
+{"level":"info","message":"Saved product: McChrystals Summer Harvest (ID: 2ce96267-1342-47e2-bbc1-3de2442425f0)","timestamp":"2025-05-09T00:27:55.146Z"}
+{"level":"info","message":"Saved price for product: McChrystals Summer Harvest - From$1.29","timestamp":"2025-05-09T00:27:55.227Z"}
+{"level":"info","message":"Saved product: McChrystals Sunset (ID: 06dc27c9-da27-46b3-8dba-1be8b71b76dc)","timestamp":"2025-05-09T00:27:55.464Z"}
+{"level":"info","message":"Saved price for product: McChrystals Sunset - From$1.29","timestamp":"2025-05-09T00:27:55.556Z"}
+{"level":"info","message":"Saved product: McChrystals Vintage Velvet (ID: dfb848b5-cf56-4e4b-b786-b687764bc272)","timestamp":"2025-05-09T00:27:55.807Z"}
+{"level":"info","message":"Saved price for product: McChrystals Vintage Velvet - From$1.29","timestamp":"2025-05-09T00:27:55.888Z"}
+{"level":"info","message":"Saved product: McChrystals Wee Dram (ID: e110a9ee-527b-43e6-a3c7-56b5f23d2c33)","timestamp":"2025-05-09T00:27:56.127Z"}
+{"level":"info","message":"Saved price for product: McChrystals Wee Dram - From$1.29","timestamp":"2025-05-09T00:27:56.209Z"}
+{"level":"info","message":"Saved product: McChrystals SP (ID: a4d30d4d-6613-4744-aebb-4cdb90d80db8)","timestamp":"2025-05-09T00:27:56.446Z"}
+{"level":"info","message":"Saved price for product: McChrystals SP - From$1.29","timestamp":"2025-05-09T00:27:56.531Z"}
+{"level":"info","message":"Saved product: McChrystals Sturco (ID: fc8ad41a-fcf0-497a-952a-0fd57a05a86f)","timestamp":"2025-05-09T00:27:56.768Z"}
+{"level":"info","message":"Saved price for product: McChrystals Sturco - From$1.29","timestamp":"2025-05-09T00:27:56.850Z"}
+{"level":"info","message":"Saved product: McChrystals Original & Genuine (ID: 051ceb74-eaff-4327-9111-aedf35a24b7c)","timestamp":"2025-05-09T00:27:57.096Z"}
+{"level":"info","message":"Saved price for product: McChrystals Original & Genuine - From$1.29","timestamp":"2025-05-09T00:27:57.192Z"}
+{"level":"info","message":"Saved product: McChrystals Highland Ice (ID: 2487c190-e27d-4d76-87cf-9a135a75611b)","timestamp":"2025-05-09T00:27:57.448Z"}
+{"level":"info","message":"Saved price for product: McChrystals Highland Ice - From$1.29","timestamp":"2025-05-09T00:27:57.538Z"}
+{"level":"info","message":"Saved product: McChrystals Smokers blend (ID: 2e897780-e62e-4798-8dd1-8617afc5904e)","timestamp":"2025-05-09T00:27:57.852Z"}
+{"level":"info","message":"Saved price for product: McChrystals Smokers blend - From$1.79","timestamp":"2025-05-09T00:27:57.972Z"}
+{"level":"info","message":"Saved product: McChrystals Jip (ID: f69bf838-fbb1-4a07-8454-208fd7560b8f)","timestamp":"2025-05-09T00:27:58.279Z"}
+{"level":"info","message":"Saved price for product: McChrystals Jip - From$1.79","timestamp":"2025-05-09T00:27:58.363Z"}
+{"level":"info","message":"Scraping category: Mullins & Westley","timestamp":"2025-05-09T00:27:58.363Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/mullins-westley/","timestamp":"2025-05-09T00:27:58.364Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/mullins-westley/","timestamp":"2025-05-09T00:27:58.364Z"}
+{"level":"info","message":"No subcategories found in category Mullins & Westley, treating as product page","timestamp":"2025-05-09T00:28:00.986Z"}
+{"level":"info","message":"Found 1 pages in category Mullins & Westley","timestamp":"2025-05-09T00:28:00.988Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category Mullins & Westley","timestamp":"2025-05-09T00:28:00.988Z"}
+{"level":"info","message":"Found 5 products on page 1 of 1 in category Mullins & Westley","timestamp":"2025-05-09T00:28:03.443Z"}
+{"level":"info","message":"Found 5 total products in category Mullins & Westley","timestamp":"2025-05-09T00:28:03.444Z"}
+{"level":"info","message":"Saved product: Mullins & Westley Particular 20g (ID: bd80c622-b53e-4351-a0b7-50d401185963)","timestamp":"2025-05-09T00:28:03.757Z"}
+{"level":"info","message":"Saved price for product: Mullins & Westley Particular 20g - $7.99","timestamp":"2025-05-09T00:28:03.856Z"}
+{"level":"info","message":"Saved product: Mullins & Westley Mature Crumbled 20g (ID: e5a80f6e-9859-456c-9808-72def2c5584d)","timestamp":"2025-05-09T00:28:04.095Z"}
+{"level":"info","message":"Saved price for product: Mullins & Westley Mature Crumbled 20g - $7.99","timestamp":"2025-05-09T00:28:04.176Z"}
+{"level":"info","message":"Saved product: Mullins & Westley Keen Scented 20g (ID: f4567df3-9401-428d-a4d7-d1c21fdc13f0)","timestamp":"2025-05-09T00:28:04.428Z"}
+{"level":"info","message":"Saved price for product: Mullins & Westley Keen Scented 20g - $7.99","timestamp":"2025-05-09T00:28:04.509Z"}
+{"level":"info","message":"Saved product: Mullins & Westley Jock’s Choice 20g (ID: 58b44f28-7788-4f98-a677-fd795d25811d)","timestamp":"2025-05-09T00:28:04.751Z"}
+{"level":"info","message":"Saved price for product: Mullins & Westley Jock’s Choice 20g - $7.99","timestamp":"2025-05-09T00:28:04.830Z"}
+{"level":"info","message":"Saved product: Mullins & Westley Black Rappee 20g (ID: b86a508e-1619-4b59-b90c-52f3fa0796af)","timestamp":"2025-05-09T00:28:05.074Z"}
+{"level":"info","message":"Saved price for product: Mullins & Westley Black Rappee 20g - $8.98","timestamp":"2025-05-09T00:28:05.154Z"}
+{"level":"info","message":"Scraping category: Neffa","timestamp":"2025-05-09T00:28:05.154Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/neffa/","timestamp":"2025-05-09T00:28:05.154Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/neffa/","timestamp":"2025-05-09T00:28:05.155Z"}
+{"level":"info","message":"No subcategories found in category Neffa, treating as product page","timestamp":"2025-05-09T00:28:07.560Z"}
+{"level":"info","message":"Found 1 pages in category Neffa","timestamp":"2025-05-09T00:28:07.561Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category Neffa","timestamp":"2025-05-09T00:28:07.561Z"}
+{"level":"info","message":"Found 0 products on page 1 of 1 in category Neffa","timestamp":"2025-05-09T00:28:10.057Z"}
+{"level":"info","message":"Found 0 total products in category Neffa","timestamp":"2025-05-09T00:28:10.057Z"}
+{"level":"info","message":"Scraping category: NTSU","timestamp":"2025-05-09T00:28:10.057Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/ntsu-1/","timestamp":"2025-05-09T00:28:10.058Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/ntsu-1/","timestamp":"2025-05-09T00:28:10.058Z"}
+{"level":"info","message":"No subcategories found in category NTSU, treating as product page","timestamp":"2025-05-09T00:28:12.594Z"}
+{"level":"info","message":"Found 1 pages in category NTSU","timestamp":"2025-05-09T00:28:12.595Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category NTSU","timestamp":"2025-05-09T00:28:12.595Z"}
+{"level":"info","message":"Found 4 products on page 1 of 1 in category NTSU","timestamp":"2025-05-09T00:28:15.043Z"}
+{"level":"info","message":"Found 4 total products in category NTSU","timestamp":"2025-05-09T00:28:15.043Z"}
+{"level":"info","message":"Saved product: NTSU BLACK 14G (ID: c8759505-7fd7-44f2-96f5-0daf88b13ae1)","timestamp":"2025-05-09T00:28:15.293Z"}
+{"level":"info","message":"Saved price for product: NTSU BLACK 14G - $1.85","timestamp":"2025-05-09T00:28:15.372Z"}
+{"level":"info","message":"Saved product: NTSU GREEN 14G (ID: 26d9ae29-e9fb-4c31-b0b1-3cd6fb2d1fff)","timestamp":"2025-05-09T00:28:15.610Z"}
+{"level":"info","message":"Saved price for product: NTSU GREEN 14G - $1.85","timestamp":"2025-05-09T00:28:15.690Z"}
+{"level":"info","message":"Saved product: NTSU GREEN 14G X12 (ID: 91182404-394b-45bc-9adb-0cf3026a4084)","timestamp":"2025-05-09T00:28:15.950Z"}
+{"level":"info","message":"Saved price for product: NTSU GREEN 14G X12 - $21.99","timestamp":"2025-05-09T00:28:16.045Z"}
+{"level":"info","message":"Saved product: NTSU BLACK 14G X12 (ID: 895116ed-4ada-424f-8641-253cf86b7b81)","timestamp":"2025-05-09T00:28:16.331Z"}
+{"level":"info","message":"Saved price for product: NTSU BLACK 14G X12 - $21.99","timestamp":"2025-05-09T00:28:16.429Z"}
+{"level":"info","message":"Scraping category: Ozona","timestamp":"2025-05-09T00:28:16.430Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/ozona/","timestamp":"2025-05-09T00:28:16.430Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/ozona/","timestamp":"2025-05-09T00:28:16.431Z"}
+{"level":"info","message":"No subcategories found in category Ozona, treating as product page","timestamp":"2025-05-09T00:28:18.991Z"}
+{"level":"info","message":"Found 1 pages in category Ozona","timestamp":"2025-05-09T00:28:18.992Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category Ozona","timestamp":"2025-05-09T00:28:18.992Z"}
+{"level":"info","message":"Found 7 products on page 1 of 1 in category Ozona","timestamp":"2025-05-09T00:28:21.519Z"}
+{"level":"info","message":"Found 7 total products in category Ozona","timestamp":"2025-05-09T00:28:21.520Z"}
+{"level":"info","message":"Saved product: Ozona Type S snuff 5g (ID: 629dd5ee-1ed1-49fb-a3df-c2ff1f07a190)","timestamp":"2025-05-09T00:28:21.757Z"}
+{"level":"info","message":"Saved price for product: Ozona Type S snuff 5g - $1.54","timestamp":"2025-05-09T00:28:21.836Z"}
+{"level":"info","message":"Saved product: Ozona Type C 5g (ID: e6ddeb57-b297-440e-9f95-83f36739b0fc)","timestamp":"2025-05-09T00:28:22.083Z"}
+{"level":"info","message":"Saved price for product: Ozona Type C 5g - $1.54","timestamp":"2025-05-09T00:28:22.164Z"}
+{"level":"info","message":"Saved product: Ozona Type R 5g (ID: a83fd88c-9f9e-4bc5-9224-09c96bf313c9)","timestamp":"2025-05-09T00:28:22.405Z"}
+{"level":"info","message":"Saved price for product: Ozona Type R 5g - $1.54","timestamp":"2025-05-09T00:28:22.492Z"}
+{"level":"info","message":"Saved product: Ozona Type O 5g (ID: 746a6e70-bd3d-4673-845a-884a80447922)","timestamp":"2025-05-09T00:28:22.732Z"}
+{"level":"info","message":"Saved price for product: Ozona Type O 5g - $1.54","timestamp":"2025-05-09T00:28:22.812Z"}
+{"level":"info","message":"Saved product: Snuffy White Snuff 5g (ID: a65561b4-9ddb-4e8b-821b-84050e022261)","timestamp":"2025-05-09T00:28:23.068Z"}
+{"level":"info","message":"Saved price for product: Snuffy White Snuff 5g - $1.55","timestamp":"2025-05-09T00:28:23.172Z"}
+{"level":"info","message":"Saved product: Pöschl Ozona President Snuff 7g (ID: 94aa3fcd-d584-4e20-ab78-efea1d56b22b)","timestamp":"2025-05-09T00:28:23.508Z"}
+{"level":"info","message":"Saved price for product: Pöschl Ozona President Snuff 7g - $2.39","timestamp":"2025-05-09T00:28:23.588Z"}
+{"level":"info","message":"Saved product: Ozona English Type (German tin) (ID: bd34c72d-1c5b-41c0-a015-b19bd9485997)","timestamp":"2025-05-09T00:28:23.828Z"}
+{"level":"info","message":"Saved price for product: Ozona English Type (German tin) - $4.32","timestamp":"2025-05-09T00:28:23.909Z"}
+{"level":"info","message":"Scraping category: Poschl","timestamp":"2025-05-09T00:28:23.909Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/poschl/","timestamp":"2025-05-09T00:28:23.909Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/poschl/","timestamp":"2025-05-09T00:28:23.909Z"}
+{"level":"info","message":"No subcategories found in category Poschl, treating as product page","timestamp":"2025-05-09T00:28:26.600Z"}
+{"level":"info","message":"Found 2 pages in category Poschl","timestamp":"2025-05-09T00:28:26.602Z"}
+{"level":"info","message":"Scraping page 1 of 2 in category Poschl","timestamp":"2025-05-09T00:28:26.602Z"}
+{"level":"info","message":"Found 20 products on page 1 of 2 in category Poschl","timestamp":"2025-05-09T00:28:29.181Z"}
+{"level":"info","message":"Scraping page 2 of 2 in category Poschl","timestamp":"2025-05-09T00:28:29.181Z"}
+{"level":"info","message":"Found 10 products on page 2 of 2 in category Poschl","timestamp":"2025-05-09T00:28:31.692Z"}
+{"level":"info","message":"Found 30 total products in category Poschl","timestamp":"2025-05-09T00:28:31.693Z"}
+{"level":"info","message":"Saved product: Ozona Type S snuff 5g (ID: 629dd5ee-1ed1-49fb-a3df-c2ff1f07a190)","timestamp":"2025-05-09T00:28:31.945Z"}
+{"level":"info","message":"Saved price for product: Ozona Type S snuff 5g - $1.54","timestamp":"2025-05-09T00:28:32.028Z"}
+{"level":"info","message":"Saved product: Ozona Type C 5g (ID: e6ddeb57-b297-440e-9f95-83f36739b0fc)","timestamp":"2025-05-09T00:28:32.277Z"}
+{"level":"info","message":"Saved price for product: Ozona Type C 5g - $1.54","timestamp":"2025-05-09T00:28:32.375Z"}
+{"level":"info","message":"Saved product: Ozona Type R 5g (ID: a83fd88c-9f9e-4bc5-9224-09c96bf313c9)","timestamp":"2025-05-09T00:28:32.671Z"}
+{"level":"info","message":"Saved price for product: Ozona Type R 5g - $1.54","timestamp":"2025-05-09T00:28:32.768Z"}
+{"level":"info","message":"Saved product: Ozona Type O 5g (ID: 746a6e70-bd3d-4673-845a-884a80447922)","timestamp":"2025-05-09T00:28:33.064Z"}
+{"level":"info","message":"Saved price for product: Ozona Type O 5g - $1.54","timestamp":"2025-05-09T00:28:33.154Z"}
+{"level":"info","message":"Saved product: Snuffy White Snuff 5g (ID: a65561b4-9ddb-4e8b-821b-84050e022261)","timestamp":"2025-05-09T00:28:33.404Z"}
+{"level":"info","message":"Saved price for product: Snuffy White Snuff 5g - $1.55","timestamp":"2025-05-09T00:28:33.490Z"}
+{"level":"info","message":"Saved product: Red Bull Snuff 7g (ID: 095b90a7-b948-4781-a229-78e1cd69f415)","timestamp":"2025-05-09T00:28:33.730Z"}
+{"level":"info","message":"Saved price for product: Red Bull Snuff 7g - $1.55","timestamp":"2025-05-09T00:28:33.811Z"}
+{"level":"info","message":"Saved product: Gletscherprise Snuff 10g (ID: 121d4d42-788a-4cdb-aa3e-636b7cb05271)","timestamp":"2025-05-09T00:28:34.056Z"}
+{"level":"info","message":"Saved price for product: Gletscherprise Snuff 10g - $2.09","timestamp":"2025-05-09T00:28:34.137Z"}
+{"level":"info","message":"Saved product: Gawith Original 10g (ID: 5a2ed1b4-79ec-4bb5-a21a-ff3db9e02097)","timestamp":"2025-05-09T00:28:34.375Z"}
+{"level":"info","message":"Saved price for product: Gawith Original 10g - $2.09","timestamp":"2025-05-09T00:28:34.456Z"}
+{"level":"info","message":"Saved product: Lowen-Prise Snuff 10g (ID: b82ecfcb-6451-4161-b755-0910caad4873)","timestamp":"2025-05-09T00:28:34.695Z"}
+{"level":"info","message":"Saved price for product: Lowen-Prise Snuff 10g - $2.39","timestamp":"2025-05-09T00:28:34.776Z"}
+{"level":"info","message":"Saved product: Pöschl Ozona President Snuff 7g (ID: 94aa3fcd-d584-4e20-ab78-efea1d56b22b)","timestamp":"2025-05-09T00:28:35.067Z"}
+{"level":"info","message":"Saved price for product: Pöschl Ozona President Snuff 7g - $2.39","timestamp":"2025-05-09T00:28:35.170Z"}
+{"level":"info","message":"Saved product: Poschl Packards Club 6.5g (ID: c12ddb66-5db3-475d-a8d8-9c02543e8109)","timestamp":"2025-05-09T00:28:35.473Z"}
+{"level":"info","message":"Saved price for product: Poschl Packards Club 6.5g - $4.32","timestamp":"2025-05-09T00:28:35.563Z"}
+{"level":"info","message":"Saved product: Poschl Mac Craig Royal 7g (ID: 5a37122a-6c7e-466a-a7a6-15c4ecbb5d46)","timestamp":"2025-05-09T00:28:35.818Z"}
+{"level":"info","message":"Saved price for product: Poschl Mac Craig Royal 7g - $4.32","timestamp":"2025-05-09T00:28:35.898Z"}
+{"level":"info","message":"Saved product: Poschl Gletscherprise Gold 10g (ID: 4ba1cf4b-e32c-407c-91cf-41aee9b692d3)","timestamp":"2025-05-09T00:28:36.141Z"}
+{"level":"info","message":"Saved price for product: Poschl Gletscherprise Gold 10g - $4.32","timestamp":"2025-05-09T00:28:36.223Z"}
+{"level":"info","message":"Saved product: Poschl Gawith Silver 10g (ID: d6b70708-48ea-413f-adc1-85cc77ef0212)","timestamp":"2025-05-09T00:28:36.468Z"}
+{"level":"info","message":"Saved price for product: Poschl Gawith Silver 10g - $4.32","timestamp":"2025-05-09T00:28:36.548Z"}
+{"level":"info","message":"Saved product: Poschl Alpina 10g (ID: 8cbbf29c-db21-42c1-983c-9c3bb4ca2842)","timestamp":"2025-05-09T00:28:36.785Z"}
+{"level":"info","message":"Saved price for product: Poschl Alpina 10g - $4.32","timestamp":"2025-05-09T00:28:36.866Z"}
+{"level":"info","message":"Saved product: Poschl Andechs 10g (ID: 4bd471c3-d02b-412d-95bf-235f122550a9)","timestamp":"2025-05-09T00:28:37.127Z"}
+{"level":"info","message":"Saved price for product: Poschl Andechs 10g - $4.32","timestamp":"2025-05-09T00:28:37.223Z"}
+{"level":"info","message":"Saved product: Poschl Bayern Prise Brazil 10g (ID: 34e3047c-7bb5-431b-b5f3-4cdddf80146b)","timestamp":"2025-05-09T00:28:37.495Z"}
+{"level":"info","message":"Saved price for product: Poschl Bayern Prise Brazil 10g - $4.32","timestamp":"2025-05-09T00:28:37.586Z"}
+{"level":"info","message":"Saved product: Poschl FC Bayern 10g (ID: e63c5c3e-e3c9-4687-b3f1-8c1ae35d76b2)","timestamp":"2025-05-09T00:28:37.822Z"}
+{"level":"info","message":"Saved price for product: Poschl FC Bayern 10g - $4.32","timestamp":"2025-05-09T00:28:37.912Z"}
+{"level":"info","message":"Saved product: Ozona English Type (German tin) (ID: bd34c72d-1c5b-41c0-a015-b19bd9485997)","timestamp":"2025-05-09T00:28:38.173Z"}
+{"level":"info","message":"Saved price for product: Ozona English Type (German tin) - $4.32","timestamp":"2025-05-09T00:28:38.263Z"}
+{"level":"info","message":"Saved product: Radfords Snuff 10g (ID: a35833b3-26b8-48ef-82b0-a0c06143c755)","timestamp":"2025-05-09T00:28:38.516Z"}
+{"level":"info","message":"Saved price for product: Radfords Snuff 10g - $4.91","timestamp":"2025-05-09T00:28:38.599Z"}
+{"level":"info","message":"Saved product: Poschl JBR Green 10g (ID: 9fd383ba-3e39-47e8-984b-b0040030573f)","timestamp":"2025-05-09T00:28:38.861Z"}
+{"level":"info","message":"Saved price for product: Poschl JBR Green 10g - $5.31","timestamp":"2025-05-09T00:28:38.940Z"}
+{"level":"info","message":"Saved product: Poschl JBR Blue 10g (ID: f592a0fc-269c-4524-8694-342880827de4)","timestamp":"2025-05-09T00:28:39.178Z"}
+{"level":"info","message":"Saved price for product: Poschl JBR Blue 10g - $5.31","timestamp":"2025-05-09T00:28:39.258Z"}
+{"level":"info","message":"Saved product: Poschl JBR Red 10g (ID: 4de5e587-6eae-4059-90d4-f1b69bb19e2f)","timestamp":"2025-05-09T00:28:39.504Z"}
+{"level":"info","message":"Saved price for product: Poschl JBR Red 10g - $5.31","timestamp":"2025-05-09T00:28:39.595Z"}
+{"level":"info","message":"Saved product: Poschl JBR Yellow 10g (ID: f321a9d9-f9f3-4dcd-a997-06418ef1e131)","timestamp":"2025-05-09T00:28:39.848Z"}
+{"level":"info","message":"Saved price for product: Poschl JBR Yellow 10g - $5.31","timestamp":"2025-05-09T00:28:39.929Z"}
+{"level":"info","message":"Saved product: Poschl JBR Black 10g (ID: e6ca7d24-343a-422f-bb1b-92d9d8f84c15)","timestamp":"2025-05-09T00:28:40.187Z"}
+{"level":"info","message":"Saved price for product: Poschl JBR Black 10g - $5.31","timestamp":"2025-05-09T00:28:40.285Z"}
+{"level":"info","message":"Saved product: Poschl Schneeberg Weiss Snuff 10g (ID: ce2747a9-55ed-490a-9766-f398c2bc267e)","timestamp":"2025-05-09T00:28:40.594Z"}
+{"level":"info","message":"Saved price for product: Poschl Schneeberg Weiss Snuff 10g - $5.49","timestamp":"2025-05-09T00:28:40.698Z"}
+{"level":"info","message":"Saved product: Schmalzler D Doppelaroma 100g (ID: 61aea701-d9ef-436f-9082-5192db780814)","timestamp":"2025-05-09T00:28:40.946Z"}
+{"level":"info","message":"Saved price for product: Schmalzler D Doppelaroma 100g - $10.18","timestamp":"2025-05-09T00:28:41.048Z"}
+{"level":"info","message":"Saved product: Schmalzler SF Sudfrucht 100g (ID: 4ad60f8d-0e3c-4069-bf1c-3cddc270bd1d)","timestamp":"2025-05-09T00:28:41.304Z"}
+{"level":"info","message":"Saved price for product: Schmalzler SF Sudfrucht 100g - $10.18","timestamp":"2025-05-09T00:28:41.384Z"}
+{"level":"info","message":"Saved product: Poschl Schmalzler A Brazil 100g (ID: d0b70f56-3d36-455c-a303-3359e2b006d4)","timestamp":"2025-05-09T00:28:41.621Z"}
+{"level":"info","message":"Saved price for product: Poschl Schmalzler A Brazil 100g - $10.18","timestamp":"2025-05-09T00:28:41.706Z"}
+{"level":"info","message":"Saved product: Poschl Schmalzler Perlesreuter 100g (ID: fa5538da-f1dc-4735-a8b7-ea3b0730eabe)","timestamp":"2025-05-09T00:28:41.954Z"}
+{"level":"info","message":"Saved price for product: Poschl Schmalzler Perlesreuter 100g - $10.18","timestamp":"2025-05-09T00:28:42.034Z"}
+{"level":"info","message":"Scraping category: Samuel Gawith","timestamp":"2025-05-09T00:28:42.035Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/samuel-gawith/","timestamp":"2025-05-09T00:28:42.035Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/samuel-gawith/","timestamp":"2025-05-09T00:28:42.035Z"}
+{"level":"info","message":"Found 2 subcategories in category Samuel Gawith","timestamp":"2025-05-09T00:28:44.768Z"}
+{"level":"info","message":"Scraping subcategory: 10G (13)","timestamp":"2025-05-09T00:28:44.768Z"}
+{"level":"info","message":"Fetching subcategory page: https://www.toquesnuff.com/product-category/samuel-gawith/10g-samuel-gawith/","timestamp":"2025-05-09T00:28:44.769Z"}
+{"level":"info","message":"Found 1 pages in subcategory 10G (13)","timestamp":"2025-05-09T00:28:47.778Z"}
+{"level":"info","message":"Scraping page 1 of 1 in subcategory 10G (13)","timestamp":"2025-05-09T00:28:47.778Z"}
+{"level":"info","message":"Found 13 products on page 1 of 1 in subcategory 10G (13)","timestamp":"2025-05-09T00:28:50.326Z"}
+{"level":"info","message":"Found 13 total products in subcategory 10G (13)","timestamp":"2025-05-09T00:28:50.326Z"}
+{"level":"info","message":"Saved product: Samuel Gawith G & T 10g (ID: 6a02b651-dc4e-4de6-97b8-49dc5179bd0e)","timestamp":"2025-05-09T00:28:50.566Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith G & T 10g - $2.48","timestamp":"2025-05-09T00:28:50.650Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Pinewood Ice 10g (ID: c147abb9-88d7-4698-88df-438506605c7a)","timestamp":"2025-05-09T00:28:50.890Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Pinewood Ice 10g - $2.48","timestamp":"2025-05-09T00:28:50.970Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Madagascan 10g (ID: 88d859db-7f4d-4c35-b688-18d8ad33aef5)","timestamp":"2025-05-09T00:28:51.218Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Madagascan 10g - $2.48","timestamp":"2025-05-09T00:28:51.305Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Keswick 10g (ID: 06c877de-a6e9-4f70-87ca-738b9d769d90)","timestamp":"2025-05-09T00:28:51.551Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Keswick 10g - $2.48","timestamp":"2025-05-09T00:28:51.638Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Golden Glow 10g (ID: 7faf4e63-fa69-4f9a-8bb4-18613603bd4a)","timestamp":"2025-05-09T00:28:51.875Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Golden Glow 10g - $2.48","timestamp":"2025-05-09T00:28:51.961Z"}
+{"level":"info","message":"Saved product: Samuel Gawith RBY 10g (ID: 3c3ce99e-518e-469f-91a1-aa9d1617e69e)","timestamp":"2025-05-09T00:28:52.201Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith RBY 10g - $2.48","timestamp":"2025-05-09T00:28:52.281Z"}
+{"level":"info","message":"Saved product: Samuel Gawith M 10g (ID: 89e35fb5-4037-40f0-bcdd-e157f4dcb52e)","timestamp":"2025-05-09T00:28:52.525Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith M 10g - $2.48","timestamp":"2025-05-09T00:28:52.609Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Firedance 10g (ID: 747607b7-8651-499b-85a5-423964c38d49)","timestamp":"2025-05-09T00:28:52.846Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Firedance 10g - $2.48","timestamp":"2025-05-09T00:28:52.927Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Celtic Talisman 10g (ID: 7c86438e-0d49-40d5-8675-0fa6f1c371c2)","timestamp":"2025-05-09T00:28:53.165Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Celtic Talisman 10g - $2.48","timestamp":"2025-05-09T00:28:53.246Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Afterglow 10g (ID: 443c4c46-8561-43a3-b3dd-642d68811261)","timestamp":"2025-05-09T00:28:53.486Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Afterglow 10g - $2.48","timestamp":"2025-05-09T00:28:53.573Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Black Arabica 10g (ID: b9f11275-86a2-49af-bca1-5a41d45ab2cf)","timestamp":"2025-05-09T00:28:53.809Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Black Arabica 10g - $2.48","timestamp":"2025-05-09T00:28:53.889Z"}
+{"level":"info","message":"Saved product: Samuel Gawith KB Original 10g (ID: 1216e72e-b9d8-4ee6-80fb-cf0805a8b69a)","timestamp":"2025-05-09T00:28:54.127Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith KB Original 10g - $2.48","timestamp":"2025-05-09T00:28:54.209Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Mastiff 10g (ID: ad4c2553-eb17-45f5-b1f4-95c1b8d2b68b)","timestamp":"2025-05-09T00:28:54.467Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Mastiff 10g - $2.48","timestamp":"2025-05-09T00:28:54.546Z"}
+{"level":"info","message":"Scraping subcategory: 25G (17)","timestamp":"2025-05-09T00:28:54.547Z"}
+{"level":"info","message":"Fetching subcategory page: https://www.toquesnuff.com/product-category/samuel-gawith/25g-samuel-gawith/","timestamp":"2025-05-09T00:28:54.547Z"}
+{"level":"info","message":"Found 1 pages in subcategory 25G (17)","timestamp":"2025-05-09T00:28:57.279Z"}
+{"level":"info","message":"Scraping page 1 of 1 in subcategory 25G (17)","timestamp":"2025-05-09T00:28:57.280Z"}
+{"level":"info","message":"Found 17 products on page 1 of 1 in subcategory 25G (17)","timestamp":"2025-05-09T00:28:59.839Z"}
+{"level":"info","message":"Found 17 total products in subcategory 25G (17)","timestamp":"2025-05-09T00:28:59.839Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Pinewood Ice 25g (ID: e17ec5be-d272-4847-9c61-3f3738041f85)","timestamp":"2025-05-09T00:29:00.077Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Pinewood Ice 25g - $3.69","timestamp":"2025-05-09T00:29:00.156Z"}
+{"level":"info","message":"Saved product: Samuel Gawith G&T 25g (ID: aa1c504d-728e-46fa-ba85-848f9284ff74)","timestamp":"2025-05-09T00:29:00.402Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith G&T 25g - $3.69","timestamp":"2025-05-09T00:29:00.482Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Celtic Talisman 25g (ID: 26709a84-af51-480b-9308-5c306a7b2ba7)","timestamp":"2025-05-09T00:29:00.725Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Celtic Talisman 25g - $3.69","timestamp":"2025-05-09T00:29:00.808Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Elmos Reserve 25g (ID: 5b08476c-7ad3-4806-b49c-d77795fd06a8)","timestamp":"2025-05-09T00:29:01.047Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Elmos Reserve 25g - $3.69","timestamp":"2025-05-09T00:29:01.128Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Firedance 25g (ID: cdb8a5b1-8bd1-4088-8d92-4782c3b9dadb)","timestamp":"2025-05-09T00:29:01.373Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Firedance 25g - $3.69","timestamp":"2025-05-09T00:29:01.467Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Madagascan 25g (ID: 5c1d2401-38a8-4c83-9d19-e6abed7c510d)","timestamp":"2025-05-09T00:29:01.735Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Madagascan 25g - $3.69","timestamp":"2025-05-09T00:29:01.830Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Dr Verey 25g (ID: bda5d0e4-3b5e-4ac7-90f1-6243b1651f94)","timestamp":"2025-05-09T00:29:02.071Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Dr Verey 25g - $3.69","timestamp":"2025-05-09T00:29:02.154Z"}
+{"level":"info","message":"Saved product: Samuel Gawith RBY 25g (ID: 6bf39e5d-3fc2-4cb9-b0a0-f839b6691f05)","timestamp":"2025-05-09T00:29:02.405Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith RBY 25g - $3.69","timestamp":"2025-05-09T00:29:02.485Z"}
+{"level":"info","message":"Saved product: Samuel Gawith KB Original 25g (ID: af9914e6-e80a-4006-80c9-88a052c7b807)","timestamp":"2025-05-09T00:29:02.731Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith KB Original 25g - $3.69","timestamp":"2025-05-09T00:29:02.817Z"}
+{"level":"info","message":"Saved product: Samuel Gawith M 25g (ID: eb469198-b844-4d83-8529-b4c706dceb54)","timestamp":"2025-05-09T00:29:03.086Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith M 25g - $3.69","timestamp":"2025-05-09T00:29:03.177Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Afterglow 25g (ID: 0298bc54-3f33-4e7a-9b6d-7c2bdb3fb421)","timestamp":"2025-05-09T00:29:03.436Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Afterglow 25g - $3.69","timestamp":"2025-05-09T00:29:03.520Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Keswick 25g (ID: 49dafec9-00b3-4e90-a098-6f6337d98ced)","timestamp":"2025-05-09T00:29:03.770Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Keswick 25g - $3.69","timestamp":"2025-05-09T00:29:03.861Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Golden Glow 25g (ID: 811b5952-3749-4792-8a0e-11c2b725f320)","timestamp":"2025-05-09T00:29:04.113Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Golden Glow 25g - $3.69","timestamp":"2025-05-09T00:29:04.192Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Mastiff 25g (ID: d0e15f63-4bd7-4379-ad8e-4faad5093ebb)","timestamp":"2025-05-09T00:29:04.432Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Mastiff 25g - $3.69","timestamp":"2025-05-09T00:29:04.516Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Silky Dark 25g (ID: 9d76ba41-4cec-4733-9a6e-6086bea1ee4c)","timestamp":"2025-05-09T00:29:04.756Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Silky Dark 25g - $3.69","timestamp":"2025-05-09T00:29:04.837Z"}
+{"level":"info","message":"Saved product: Samuel Gawith KB Plain 25g (ID: 7d3eb8cb-133a-4d87-a431-3ebe84e75be3)","timestamp":"2025-05-09T00:29:05.083Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith KB Plain 25g - $3.69","timestamp":"2025-05-09T00:29:05.165Z"}
+{"level":"info","message":"Saved product: Samuel Gawith Black Arabica 25g (ID: 2e857f85-3b1c-4684-a24d-1842a6abb9d8)","timestamp":"2025-05-09T00:29:05.406Z"}
+{"level":"info","message":"Saved price for product: Samuel Gawith Black Arabica 25g - $3.69","timestamp":"2025-05-09T00:29:05.486Z"}
+{"level":"info","message":"Scraping category: Singletons","timestamp":"2025-05-09T00:29:05.487Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/singletons/","timestamp":"2025-05-09T00:29:05.487Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/singletons/","timestamp":"2025-05-09T00:29:05.487Z"}
+{"level":"info","message":"No subcategories found in category Singletons, treating as product page","timestamp":"2025-05-09T00:29:08.176Z"}
+{"level":"info","message":"Found 1 pages in category Singletons","timestamp":"2025-05-09T00:29:08.177Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category Singletons","timestamp":"2025-05-09T00:29:08.177Z"}
+{"level":"info","message":"Found 4 products on page 1 of 1 in category Singletons","timestamp":"2025-05-09T00:29:10.718Z"}
+{"level":"info","message":"Found 4 total products in category Singletons","timestamp":"2025-05-09T00:29:10.719Z"}
+{"level":"info","message":"Saved product: Singletons Tap Tin 5g (ID: 30de692f-fff3-473f-ab77-76b82bc1613c)","timestamp":"2025-05-09T00:29:10.959Z"}
+{"level":"info","message":"Saved price for product: Singletons Tap Tin 5g - $1.99","timestamp":"2025-05-09T00:29:11.040Z"}
+{"level":"info","message":"Saved product: Singletons Medium Tin 10g (ID: 6dd14e8b-00dd-4695-9841-c1438382d945)","timestamp":"2025-05-09T00:29:11.280Z"}
+{"level":"info","message":"Saved price for product: Singletons Medium Tin 10g - $2.99","timestamp":"2025-05-09T00:29:11.364Z"}
+{"level":"info","message":"Saved product: Singletons Small Tin 5g (ID: 00cf6fac-91db-4c84-a85c-059532ed031c)","timestamp":"2025-05-09T00:29:11.605Z"}
+{"level":"info","message":"Saved price for product: Singletons Small Tin 5g - $3.03","timestamp":"2025-05-09T00:29:11.690Z"}
+{"level":"info","message":"Saved product: Singletons Large Tin 20g (ID: c2ffef8d-cb75-437a-b3fc-7204f30676cf)","timestamp":"2025-05-09T00:29:11.979Z"}
+{"level":"info","message":"Saved price for product: Singletons Large Tin 20g - $4.89","timestamp":"2025-05-09T00:29:12.060Z"}
+{"level":"info","message":"Scraping category: TAXI","timestamp":"2025-05-09T00:29:12.061Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/taxi/","timestamp":"2025-05-09T00:29:12.061Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/taxi/","timestamp":"2025-05-09T00:29:12.061Z"}
+{"level":"info","message":"No subcategories found in category TAXI, treating as product page","timestamp":"2025-05-09T00:29:14.572Z"}
+{"level":"info","message":"Found 1 pages in category TAXI","timestamp":"2025-05-09T00:29:14.573Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category TAXI","timestamp":"2025-05-09T00:29:14.573Z"}
+{"level":"info","message":"Found 3 products on page 1 of 1 in category TAXI","timestamp":"2025-05-09T00:29:17.018Z"}
+{"level":"info","message":"Found 3 total products in category TAXI","timestamp":"2025-05-09T00:29:17.018Z"}
+{"level":"info","message":"Saved product: TAXI GREEN 15G (ID: eeee8b84-d7e0-4240-b788-165e10c10422)","timestamp":"2025-05-09T00:29:17.273Z"}
+{"level":"info","message":"Saved price for product: TAXI GREEN 15G - $1.85","timestamp":"2025-05-09T00:29:17.364Z"}
+{"level":"info","message":"Saved product: TAXI Blue 15G (ID: a04f7d8d-d5f4-4925-96b9-5df91c4efc66)","timestamp":"2025-05-09T00:29:17.642Z"}
+{"level":"info","message":"Saved price for product: TAXI Blue 15G - $1.85","timestamp":"2025-05-09T00:29:17.723Z"}
+{"level":"info","message":"Saved product: TAXI Blue 15G x12 (ID: ebfa90c6-d3f8-4a52-854a-09b6b97d5a86)","timestamp":"2025-05-09T00:29:17.966Z"}
+{"level":"info","message":"Saved price for product: TAXI Blue 15G x12 - $21.99","timestamp":"2025-05-09T00:29:18.052Z"}
+{"level":"info","message":"Scraping category: Viking","timestamp":"2025-05-09T00:29:18.053Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/viking-1/","timestamp":"2025-05-09T00:29:18.053Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/viking-1/","timestamp":"2025-05-09T00:29:18.054Z"}
+{"level":"info","message":"No subcategories found in category Viking, treating as product page","timestamp":"2025-05-09T00:29:20.875Z"}
+{"level":"info","message":"Found 1 pages in category Viking","timestamp":"2025-05-09T00:29:20.877Z"}
+{"level":"info","message":"Scraping page 1 of 1 in category Viking","timestamp":"2025-05-09T00:29:20.877Z"}
+{"level":"info","message":"Found 10 products on page 1 of 1 in category Viking","timestamp":"2025-05-09T00:29:23.725Z"}
+{"level":"info","message":"Found 10 total products in category Viking","timestamp":"2025-05-09T00:29:23.725Z"}
+{"level":"info","message":"Saved product: Viking Blonde (ID: a9a48598-4efb-4808-bc7b-544e4dd9131a)","timestamp":"2025-05-09T00:29:23.963Z"}
+{"level":"info","message":"Saved price for product: Viking Blonde - From$4.89","timestamp":"2025-05-09T00:29:24.046Z"}
+{"level":"info","message":"Saved product: Viking Brown (ID: 2dd8568d-27bf-4aae-a9f2-c8d6a282faae)","timestamp":"2025-05-09T00:29:24.283Z"}
+{"level":"info","message":"Saved price for product: Viking Brown - From$4.89","timestamp":"2025-05-09T00:29:24.362Z"}
+{"level":"info","message":"Saved product: Viking Dark (ID: 31cd22c2-27c7-46d6-9159-bb93a0211e87)","timestamp":"2025-05-09T00:29:24.624Z"}
+{"level":"info","message":"Saved price for product: Viking Dark - From$4.89","timestamp":"2025-05-09T00:29:24.707Z"}
+{"level":"info","message":"Saved product: Viking Dark Rappee (ID: 0a5e6395-3735-423b-9a58-c5f7c76b7a56)","timestamp":"2025-05-09T00:29:24.947Z"}
+{"level":"info","message":"Saved price for product: Viking Dark Rappee - From$4.89","timestamp":"2025-05-09T00:29:25.030Z"}
+{"level":"info","message":"Saved product: Viking ISS (ID: 33184049-d185-491a-bd58-c40f64e62bdb)","timestamp":"2025-05-09T00:29:25.285Z"}
+{"level":"info","message":"Saved price for product: Viking ISS - From$4.89","timestamp":"2025-05-09T00:29:25.364Z"}
+{"level":"info","message":"Saved product: Viking Persica (ID: 9f3a75df-2f4b-4d3f-bba4-9c52855a9ec6)","timestamp":"2025-05-09T00:29:25.613Z"}
+{"level":"info","message":"Saved price for product: Viking Persica - From$4.89","timestamp":"2025-05-09T00:29:25.754Z"}
+{"level":"info","message":"Saved product: Viking Scotch Dark (ID: dd0d1205-4bb4-4935-9eb7-7bbaae4f89c7)","timestamp":"2025-05-09T00:29:25.991Z"}
+{"level":"info","message":"Saved price for product: Viking Scotch Dark - From$4.89","timestamp":"2025-05-09T00:29:26.072Z"}
+{"level":"info","message":"Saved product: Viking Spear (ID: ac03f82b-599d-4be7-b0ae-6fb4c25cd08c)","timestamp":"2025-05-09T00:29:26.315Z"}
+{"level":"info","message":"Saved price for product: Viking Spear - From$4.89","timestamp":"2025-05-09T00:29:26.394Z"}
+{"level":"info","message":"Saved product: Viking Stormbreaker (ID: 2c34dbe7-82ad-4df9-ad6a-2547edff6958)","timestamp":"2025-05-09T00:29:26.631Z"}
+{"level":"info","message":"Saved price for product: Viking Stormbreaker - From$4.89","timestamp":"2025-05-09T00:29:26.712Z"}
+{"level":"info","message":"Saved product: Viking Thors Hammer (ID: ea9ff60c-2946-4262-8b36-d9b9c73e85ff)","timestamp":"2025-05-09T00:29:26.960Z"}
+{"level":"info","message":"Saved price for product: Viking Thors Hammer - From$4.89","timestamp":"2025-05-09T00:29:27.060Z"}
+{"level":"info","message":"Scraping category: Wilsons of Sharrow","timestamp":"2025-05-09T00:29:27.061Z"}
+{"level":"info","message":"Category URL: https://www.toquesnuff.com/product-category/wilsons-of-sharrow/","timestamp":"2025-05-09T00:29:27.061Z"}
+{"level":"info","message":"Fetching category page: https://www.toquesnuff.com/product-category/wilsons-of-sharrow/","timestamp":"2025-05-09T00:29:27.061Z"}
+{"level":"info","message":"No subcategories found in category Wilsons of Sharrow, treating as product page","timestamp":"2025-05-09T00:29:30.638Z"}
+{"level":"info","message":"Found 2 pages in category Wilsons of Sharrow","timestamp":"2025-05-09T00:29:30.640Z"}
+{"level":"info","message":"Scraping page 1 of 2 in category Wilsons of Sharrow","timestamp":"2025-05-09T00:29:30.640Z"}
+{"level":"info","message":"Found 20 products on page 1 of 2 in category Wilsons of Sharrow","timestamp":"2025-05-09T00:29:34.120Z"}
+{"level":"info","message":"Scraping page 2 of 2 in category Wilsons of Sharrow","timestamp":"2025-05-09T00:29:34.121Z"}
+{"level":"info","message":"Found 18 products on page 2 of 2 in category Wilsons of Sharrow","timestamp":"2025-05-09T00:29:37.374Z"}
+{"level":"info","message":"Found 38 total products in category Wilsons of Sharrow","timestamp":"2025-05-09T00:29:37.374Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Dynamite (ID: 880c5802-2d9c-4558-97b5-11286bbadc2c)","timestamp":"2025-05-09T00:29:38.133Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Dynamite - From$1.79","timestamp":"2025-05-09T00:29:38.215Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow M.Plus (ID: 5c2f8653-1365-4a75-b911-253ae36f8379)","timestamp":"2025-05-09T00:29:38.463Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow M.Plus - From$1.79","timestamp":"2025-05-09T00:29:38.547Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Jock’s Delight (ID: 02e28479-1d6f-4d6c-8dc3-5de4e416b2e4)","timestamp":"2025-05-09T00:29:38.787Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Jock’s Delight - From$1.79","timestamp":"2025-05-09T00:29:38.867Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Africa (ID: bfcf732a-f071-4c9f-9ae4-5b09436e7503)","timestamp":"2025-05-09T00:29:39.109Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Africa - From$2.83","timestamp":"2025-05-09T00:29:39.192Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Ani Extra (ID: 4635babf-a2d4-4a2c-8cad-1097d942494a)","timestamp":"2025-05-09T00:29:39.449Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Ani Extra - From$2.83","timestamp":"2025-05-09T00:29:39.530Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Apri (ID: 2a4c090e-0886-4394-b402-a403e6e06d16)","timestamp":"2025-05-09T00:29:39.775Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Apri - From$2.83","timestamp":"2025-05-09T00:29:39.856Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Bee M. (ID: 263eca7d-7b44-4dcc-96a3-cd3b964cd46a)","timestamp":"2025-05-09T00:29:40.097Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Bee M. - From$2.83","timestamp":"2025-05-09T00:29:40.176Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Beltane (ID: b3c78364-f365-43ab-ab6d-6cf2a422fd65)","timestamp":"2025-05-09T00:29:40.412Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Beltane - From$2.83","timestamp":"2025-05-09T00:29:40.491Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Best Dark (ID: 82c26a02-7892-45af-84c7-b219f7af85f9)","timestamp":"2025-05-09T00:29:40.744Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Best Dark - From$2.83","timestamp":"2025-05-09T00:29:40.830Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Best SP (ID: ffe0ffc9-24ed-416b-bb7d-1a43feae8b83)","timestamp":"2025-05-09T00:29:41.069Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Best SP - From$2.83","timestamp":"2025-05-09T00:29:41.150Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Black Rappee (ID: f1c45fb1-c1ac-4725-958b-a7dc75a24288)","timestamp":"2025-05-09T00:29:41.384Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Black Rappee - From$2.83","timestamp":"2025-05-09T00:29:41.465Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Blonde (ID: 8d382365-82a8-41df-98c5-4a8914530da0)","timestamp":"2025-05-09T00:29:41.702Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Blonde - From$2.83","timestamp":"2025-05-09T00:29:41.781Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Crumbs of Comfort (ID: ad287af7-c80f-4181-a125-ab57a13b1773)","timestamp":"2025-05-09T00:29:42.020Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Crumbs of Comfort - From$2.83","timestamp":"2025-05-09T00:29:42.100Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Diplomat (ID: 8d49c2fe-71f4-468e-9361-3d81a2079222)","timestamp":"2025-05-09T00:29:42.335Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Diplomat - From$2.83","timestamp":"2025-05-09T00:29:42.418Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Extra M (ID: 5f8ae12a-c74b-4db3-9fa5-31e4bba57cf8)","timestamp":"2025-05-09T00:29:42.660Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Extra M - From$2.83","timestamp":"2025-05-09T00:29:42.739Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Grand Cairo (ID: 8993f1cc-67b0-4fdd-bc13-b88e9218771d)","timestamp":"2025-05-09T00:29:42.976Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Grand Cairo - From$2.83","timestamp":"2025-05-09T00:29:43.055Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Jockey Club (ID: 496975d1-6b42-491f-80a6-ca005a84b0e9)","timestamp":"2025-05-09T00:29:43.295Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Jockey Club - From$2.83","timestamp":"2025-05-09T00:29:43.376Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Kendal Brown (ID: 1b2f4fc7-762b-4657-aef7-86abc17c08ee)","timestamp":"2025-05-09T00:29:43.614Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Kendal Brown - From$2.83","timestamp":"2025-05-09T00:29:43.694Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow M. (ID: 746d479c-cff3-45b0-8af6-eab9d722d4dd)","timestamp":"2025-05-09T00:29:43.940Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow M. - From$2.83","timestamp":"2025-05-09T00:29:44.019Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow M.Root (ID: 2af817d3-84dc-4c55-8a5b-f277899cb2c0)","timestamp":"2025-05-09T00:29:44.258Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow M.Root - From$2.83","timestamp":"2025-05-09T00:29:44.339Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Matador (ID: 7b9421cd-619f-4958-851d-8e5067e44110)","timestamp":"2025-05-09T00:29:44.589Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Matador - From$2.83","timestamp":"2025-05-09T00:29:44.667Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Red M (ID: 916b19f7-f6a7-414b-b24b-70871f2c5ae4)","timestamp":"2025-05-09T00:29:44.907Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Red M - From$2.83","timestamp":"2025-05-09T00:29:44.987Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Ripple (ID: bd579503-ff02-46fb-bc3c-7a903d448bd4)","timestamp":"2025-05-09T00:29:45.224Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Ripple - From$2.83","timestamp":"2025-05-09T00:29:45.304Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Rows of Sharrow (ID: e182636b-642f-4e96-bbd3-99e94c8f54de)","timestamp":"2025-05-09T00:29:45.539Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Rows of Sharrow - From$2.83","timestamp":"2025-05-09T00:29:45.620Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Royal George (ID: 3adf40da-80a0-4250-b633-226ecff74249)","timestamp":"2025-05-09T00:29:45.862Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Royal George - From$2.83","timestamp":"2025-05-09T00:29:45.943Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow S.M. (ID: ef0cc24c-806a-4b52-a691-a0213b39940d)","timestamp":"2025-05-09T00:29:46.185Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow S.M. - From$2.83","timestamp":"2025-05-09T00:29:46.273Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow SM 500 (ID: 08461322-0369-45b5-b8ad-9971aeed300c)","timestamp":"2025-05-09T00:29:46.533Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow SM 500 - From$2.83","timestamp":"2025-05-09T00:29:46.615Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow SM Blue (ID: e2a16c61-ff5e-44bb-8e94-a01e8aa2420f)","timestamp":"2025-05-09T00:29:46.859Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow SM Blue - From$2.83","timestamp":"2025-05-09T00:29:46.939Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow SM Gold (ID: 5dce9430-e7c1-4a07-b366-7ea570109a2f)","timestamp":"2025-05-09T00:29:47.177Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow SM Gold - From$2.83","timestamp":"2025-05-09T00:29:47.277Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow SP100 (ID: 27fb8017-6853-4772-b8b7-675b72547083)","timestamp":"2025-05-09T00:29:47.517Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow SP100 - From$2.83","timestamp":"2025-05-09T00:29:47.602Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Spear (ID: 3349a340-d698-44f8-8414-7f927ceaeeed)","timestamp":"2025-05-09T00:29:47.862Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Spear - From$2.83","timestamp":"2025-05-09T00:29:47.951Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Super M (ID: 75ab921c-8b01-4ace-8c67-24cfe0d0d445)","timestamp":"2025-05-09T00:29:48.190Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Super M - From$2.83","timestamp":"2025-05-09T00:29:48.269Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Tom Buck (ID: 5e6cb9bb-0c38-47b9-947e-f12cb53ba4bc)","timestamp":"2025-05-09T00:29:48.618Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Tom Buck - From$2.83","timestamp":"2025-05-09T00:29:48.698Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Wall (ID: 32698b8f-e801-478f-878b-086f0fbc618f)","timestamp":"2025-05-09T00:29:48.940Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Wall - From$2.83","timestamp":"2025-05-09T00:29:49.028Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Gold label (ID: be38cb23-f8de-427c-bcc9-5d2fb1a36e00)","timestamp":"2025-05-09T00:29:49.281Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Gold label - From$2.99","timestamp":"2025-05-09T00:29:49.362Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Grove (ID: eae9e586-1011-496a-8a81-20e273e1ad9a)","timestamp":"2025-05-09T00:29:49.632Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Grove - From$2.99","timestamp":"2025-05-09T00:29:49.713Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Irish Toast (ID: 0f63c1d1-3232-4a20-9351-92689ea29474)","timestamp":"2025-05-09T00:29:49.953Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Irish Toast - From$2.99","timestamp":"2025-05-09T00:29:50.041Z"}
+{"level":"info","message":"Saved product: Wilsons of Sharrow Plain (ID: 56690ff9-783d-41bf-bdef-2eb06fecb7b9)","timestamp":"2025-05-09T00:29:50.281Z"}
+{"level":"info","message":"Saved price for product: Wilsons of Sharrow Plain - From$2.99","timestamp":"2025-05-09T00:29:50.361Z"}
