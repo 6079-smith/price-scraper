@@ -27,7 +27,28 @@ CREATE TABLE products (
     last_scraped TIMESTAMPTZ
 );
 
--- Price history table
+-- Variants table
+CREATE TABLE variants (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    product_id UUID REFERENCES products(id),
+    name TEXT NOT NULL, -- e.g., "2g", "4g", "8g"
+    weight_grams NUMERIC, -- Weight in grams
+    sku TEXT UNIQUE, -- SKU for this specific variant
+    created_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- Variant price history
+CREATE TABLE variant_price_history (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    variant_id UUID REFERENCES variants(id),
+    price NUMERIC NOT NULL,
+    currency TEXT DEFAULT 'USD',
+    source TEXT NOT NULL, -- e.g., 'toquesnuff', 'your_store'
+    captured_at TIMESTAMPTZ DEFAULT NOW(),
+    created_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- Price history table (now for base product prices)
 CREATE TABLE price_history (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     product_id UUID REFERENCES products(id),
